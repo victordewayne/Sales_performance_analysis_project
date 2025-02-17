@@ -30,7 +30,7 @@ Steps Followed:
      - Exploratory Data Analysis (EDA) to understand data distribution and trends.
      - Feature Engineering to derive meaningful insights and add valuable features for analysis.
 
-6. Power BI for Visualization**:  
+6. Power BI for Visualization:  
    - Imported cleaned data from Python into Power BI for visual analytics.
    - Designed a comprehensive Power BI report to provide insights into:
      - Total sales by customer
