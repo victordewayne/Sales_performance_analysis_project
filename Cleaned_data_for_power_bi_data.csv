@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,BasePrice,OrderID,CustomerID,TotalPrice,Name,Email,Country,YearMonth,OrderYear,Profit
+PROD5000,Road,Home & Kitchen,492.53,ORD20000,CUST1000,541.94,Melvin,abigail45@gmail.com,Cocos (Keeling) Islands,10/31/2024,2024,108.388
+PROD5001,Best,Toys,14.82,ORD20001,CUST1001,108.67,Roberto,cindy03@hotmail.com,Trinidad and Tobago,4/30/2023,2023,21.734
+PROD5002,Computer,Clothing,173.44,ORD20002,CUST1002,776.72,Marissa,qchan@nelson.net,Gibraltar,5/31/2024,2024,155.344
+PROD5003,Few,Toys,381.88,ORD20003,CUST1003,429.81,Shane,melissacannon@bentley-turner.com,Romania,8/31/2024,2024,85.962
+PROD5004,See,Clothing,403.13,ORD20004,CUST1004,1022.26,Warren,bradleyhess@hotmail.com,Bhutan,4/30/2023,2023,204.452
+PROD5005,Seat,Books,28.13,ORD20005,CUST1005,297.33,Melissa,robertsbrian@hotmail.com,Malaysia,3/31/2024,2024,59.466
+PROD5006,Realize,Books,429.18,ORD20006,CUST1006,855.79,Norma,wbowman@gmail.com,Niger,8/31/2023,2023,171.158
+PROD5007,Before,Toys,82.48,ORD20007,CUST1007,1045.23,Lance,jasmine26@brown.info,Nepal,10/31/2024,2024,209.046
+PROD5008,Where,Books,370.72,ORD20008,CUST1008,40.72,Beverly,shellydavis@vargas-bolton.com,Svalbard & Jan Mayen Islands,11/30/2024,2024,8.144
+PROD5009,Write,Toys,182.48,ORD20009,CUST1009,784.5,Shane,davischristopher@black-harris.org,Reunion,1/31/2024,2024,156.9
+PROD5010,Station,Books,267.1,ORD20010,CUST1010,554.77,Juan,stephanie62@yahoo.com,South Georgia and the South Sandwich Islands,10/31/2024,2024,110.954
+PROD5011,Manager,Clothing,354.72,ORD20011,CUST1011,1262.36,Kevin,dianegarcia@yahoo.com,Canada,4/30/2024,2024,252.472
+PROD5012,Popular,Clothing,291.04,ORD20012,CUST1012,319.03,Shelby,jessica90@gmail.com,Bermuda,5/31/2024,2024,63.806
+PROD5013,Only,Clothing,322.35,ORD20013,CUST1013,132.51,Cory,nicholaslong@hotmail.com,Chile,3/31/2023,2023,26.502
+PROD5014,Third,Books,431.84,ORD20014,CUST1014,887.59,Nicholas,torressheryl@gmail.com,Bouvet Island (Bouvetoya),5/31/2024,2024,177.518
+PROD5015,Campaign,Books,118.75,ORD20015,CUST1015,1374.7,Justin,linda05@gibson.com,Guinea-Bissau,3/31/2023,2023,274.94
+PROD5016,Several,Books,97.5,ORD20016,CUST1016,673.42,Amanda,mcrawford@olson-rodriguez.com,Kuwait,2/28/2023,2023,134.684
+PROD5017,Business,Beauty,156.14,ORD20017,CUST1017,799.42,Vincent,victoriaroberson@collins.com,Guinea-Bissau,4/30/2023,2023,159.884
+PROD5018,Career,Toys,229.49,ORD20018,CUST1018,1054.42,Tyler,christinemoore@waller-lopez.org,Korea,11/30/2023,2023,210.884
+PROD5019,Us,Books,409.57,ORD20019,CUST1019,968.25,Brenda,ricardochandler@hale-brown.com,Benin,6/30/2024,2024,193.65
+PROD5020,So,Beauty,308.45,ORD20020,CUST1020,97.07,Allen,shari90@moore.com,Macedonia,12/31/2023,2023,19.414
+PROD5021,Range,Books,480.97,ORD20021,CUST1021,1241.89,Jeffrey,michaelmiller@clark.com,Cameroon,7/31/2024,2024,248.378
+PROD5022,Decision,Home & Kitchen,233.49,ORD20022,CUST1022,1183.45,Carol,danielsmichelle@hotmail.com,Costa Rica,9/30/2024,2024,236.69
+PROD5023,Today,Home & Kitchen,203.88,ORD20023,CUST1023,835.33,Hector,vcarpenter@gmail.com,Nicaragua,5/31/2024,2024,167.066
+PROD5024,Process,Home & Kitchen,54.08,ORD20024,CUST1024,109.33,Suzanne,rkeller@turner.net,Korea,5/31/2024,2024,21.866
+PROD5025,Experience,Beauty,181.01,ORD20025,CUST1025,310.97,Andrea,ymejia@barber-brady.net,Bahrain,7/31/2023,2023,62.194
+PROD5026,Outside,Toys,258.12,ORD20026,CUST1026,241.98,Matthew,jeremy77@wallace.com,Zimbabwe,3/31/2024,2024,48.396
+PROD5027,Use,Books,89.45,ORD20027,CUST1027,919.75,Bryan,emily87@hudson.com,South Georgia and the South Sandwich Islands,11/30/2024,2024,183.95
+PROD5028,Opportunity,Clothing,163.35,ORD20028,CUST1028,1112.32,Katherine,wclark@rodriguez.com,Jordan,11/30/2023,2023,222.464
+PROD5029,Country,Beauty,451.88,ORD20029,CUST1029,1335.25,Joseph,jennifer27@gmail.com,Serbia,4/30/2024,2024,267.05
+PROD5030,Face,Clothing,252.22,ORD20030,CUST1030,358.26,Laura,billyramirez@hotmail.com,Grenada,6/30/2024,2024,71.652
+PROD5031,Hear,Clothing,282.55,ORD20031,CUST1031,423.69,Dennis,ydelgado@thompson.net,Somalia,1/31/2024,2024,84.738
+PROD5032,White,Toys,397.41,ORD20032,CUST1032,885.64,Greg,mestrada@bell.com,Sierra Leone,1/31/2024,2024,177.128
+PROD5033,Last,Clothing,128.06,ORD20033,CUST1033,1004.12,Kenneth,sanchezmichael@hotmail.com,American Samoa,4/30/2024,2024,200.824
+PROD5034,Area,Electronics,156.37,ORD20034,CUST1034,1136.35,Zachary,ann61@hotmail.com,Saint Vincent and the Grenadines,3/31/2023,2023,227.27
+PROD5035,Finish,Electronics,286.47,ORD20035,CUST1035,895.76,David,john20@yahoo.com,Cyprus,10/31/2023,2023,179.152
+PROD5036,Expect,Books,206.2,ORD20036,CUST1036,899.89,Curtis,grahamamy@austin-brown.net,Heard Island and McDonald Islands,7/31/2024,2024,179.978
+PROD5037,Serious,Books,498.34,ORD20037,CUST1037,621.19,Lauren,randyferguson@mata.com,Antigua and Barbuda,12/31/2023,2023,124.238
+PROD5038,Human,Books,446.47,ORD20038,CUST1038,392.08,Jennifer,dmorris@frye.com,Brazil,12/31/2024,2024,78.416
+PROD5039,Believe,Electronics,276.29,ORD20039,CUST1039,1064.05,Brian,wheelerstacey@yahoo.com,Senegal,4/30/2023,2023,212.81
+PROD5040,Kid,Electronics,207.96,ORD20040,CUST1040,159.5,Derek,ugray@gmail.com,Niger,12/31/2023,2023,31.9
+PROD5041,Stay,Home & Kitchen,377.98,ORD20041,CUST1041,1205.21,Alexandra,maddoxkristina@gmail.com,Palau,4/30/2023,2023,241.042
+PROD5042,Beautiful,Home & Kitchen,432.59,ORD20042,CUST1042,951.36,John,carriehammond@campbell.com,Italy,9/30/2023,2023,190.272
+PROD5043,Can,Toys,226.89,ORD20043,CUST1043,604.27,Amanda,beverly85@singleton.com,Antigua and Barbuda,12/31/2023,2023,120.854
+PROD5044,Lead,Home & Kitchen,243.67,ORD20044,CUST1044,1161.41,Daniel,ajohnson@hotmail.com,Gibraltar,5/31/2023,2023,232.282
+PROD5045,Accept,Home & Kitchen,359.77,ORD20045,CUST1045,1196.54,Kenneth,frank97@padilla.com,Luxembourg,12/31/2023,2023,239.308
+PROD5046,Network,Home & Kitchen,43.39,ORD20046,CUST1046,815.68,Patrick,freynathaniel@williams-lloyd.com,Lesotho,6/30/2023,2023,163.136
+PROD5047,Head,Electronics,425.43,ORD20047,CUST1047,23.85,Jeffrey,nfarrell@rangel.net,Reunion,1/31/2024,2024,4.77
+PROD5048,Build,Home & Kitchen,94.52,ORD20048,CUST1048,851.9,Megan,bryan72@gmail.com,Nepal,6/30/2023,2023,170.38
+PROD5049,Positive,Toys,399.18,ORD20049,CUST1049,399.8,Michelle,allenchristopher@hotmail.com,Malawi,5/31/2023,2023,79.96
+PROD5050,Apply,Books,125.04,ORD20050,CUST1050,634,Brian,amyzamora@hotmail.com,Macedonia,7/31/2024,2024,126.8
+PROD5051,Us,Beauty,486.06,ORD20051,CUST1051,1307.48,John,weaverjamie@garrison.com,Brazil,7/31/2023,2023,261.496
+PROD5052,Social,Toys,222,ORD20052,CUST1052,834.89,Paula,eduncan@gmail.com,Pitcairn Islands,9/30/2023,2023,166.978
+PROD5053,Bad,Clothing,220.78,ORD20053,CUST1053,1178.89,Kenneth,jrichards@yahoo.com,Japan,11/30/2023,2023,235.778
+PROD5054,Still,Books,99.14,ORD20054,CUST1054,1247.19,Miguel,jameslewis@kim.com,South Georgia and the South Sandwich Islands,1/31/2024,2024,249.438
+PROD5055,Fund,Books,94.37,ORD20055,CUST1055,429.61,Sarah,stacymiller@howell-fowler.net,Jersey,6/30/2023,2023,85.922
+PROD5056,Party,Clothing,375.13,ORD20056,CUST1056,1114.65,Jeffrey,zmoore@chan.com,Anguilla,3/31/2024,2024,222.93
+PROD5057,Finish,Books,384.41,ORD20057,CUST1057,802.07,Karen,faulknermegan@oliver.com,Jordan,7/31/2023,2023,160.414
+PROD5058,Husband,Electronics,185.17,ORD20058,CUST1058,1304.67,John,nharris@clay.com,Cayman Islands,9/30/2024,2024,260.934
+PROD5059,Evening,Clothing,347.12,ORD20059,CUST1059,1160.58,Christopher,hansendonna@herrera.com,Brazil,11/30/2024,2024,232.116
+PROD5060,Threat,Electronics,214.01,ORD20060,CUST1060,72.77,Martin,linda13@oneill.net,Ecuador,9/30/2023,2023,14.554
+PROD5061,Degree,Home & Kitchen,218.96,ORD20061,CUST1061,516.99,Fernando,martinjustin@yahoo.com,Jamaica,6/30/2023,2023,103.398
+PROD5062,Recognize,Toys,25.97,ORD20062,CUST1062,396.05,Gabriel,marycarr@hotmail.com,Swaziland,5/31/2024,2024,79.21
+PROD5063,Student,Clothing,152.83,ORD20063,CUST1063,436.84,Rebecca,butlerapril@cooper.org,Nicaragua,6/30/2023,2023,87.368
+PROD5064,By,Clothing,234.85,ORD20064,CUST1064,329.05,Nicole,raysean@hotmail.com,Panama,3/31/2023,2023,65.81
+PROD5065,,Books,304.26,ORD20065,CUST1065,1431.93,Carla,evan67@hotmail.com,Kyrgyz Republic,6/30/2024,2024,286.386
+PROD5066,Business,Clothing,369.42,ORD20066,CUST1066,684.53,Jeremy,kerri39@harding.com,Bermuda,10/31/2024,2024,136.906
+PROD5067,Air,Toys,330,ORD20067,CUST1067,281.24,Jared,sanchezmason@green.com,Cayman Islands,12/31/2023,2023,56.248
+PROD5068,Director,Home & Kitchen,331.14,ORD20068,CUST1068,540.65,Vincent,connorsmith@patterson.com,Ecuador,4/30/2024,2024,108.13
+PROD5069,Student,Books,455.02,ORD20069,CUST1069,1311.33,Lisa,zwilkinson@hotmail.com,Armenia,5/31/2023,2023,262.266
+PROD5070,Performance,Home & Kitchen,178.22,ORD20070,CUST1070,919.34,Garrett,iwarren@cannon-lindsey.org,Wallis and Futuna,1/31/2025,2025,183.868
+PROD5071,For,Books,309.89,ORD20071,CUST1071,1117.06,Thomas,jonathanholt@foster.biz,Bermuda,11/30/2024,2024,223.412
+PROD5072,Course,Clothing,404.54,ORD20072,CUST1072,1147.32,Paul,harveyangela@hotmail.com,Tuvalu,12/31/2023,2023,229.464
+PROD5073,Hospital,Clothing,436.64,ORD20073,CUST1073,384.36,Kimberly,michael31@lopez.com,South Africa,8/31/2023,2023,76.872
+PROD5074,Place,Toys,123.94,ORD20074,CUST1074,802.39,Elizabeth,michele76@kelly.com,Switzerland,8/31/2024,2024,160.478
+PROD5075,Western,Clothing,261.87,ORD20075,CUST1075,420.13,Kathryn,emilydiaz@flores-morris.info,Antarctica (the territory South of 60 deg S),2/28/2025,2025,84.026
+PROD5076,According,Books,349.34,ORD20076,CUST1076,142.98,Stacey,danny36@sanders-ramirez.com,Myanmar,6/30/2023,2023,28.596
+PROD5077,Today,Toys,177.08,ORD20077,CUST1077,963.39,Angela,fitzpatrickjames@wells.com,Ireland,11/30/2024,2024,192.678
+PROD5078,Whole,Books,398.41,ORD20078,CUST1078,856.12,Kelsey,stephenmiller@yahoo.com,Northern Mariana Islands,11/30/2023,2023,171.224
+PROD5079,Exactly,Home & Kitchen,289.73,ORD20079,CUST1079,1135.88,Ryan,mmathews@hotmail.com,Malaysia,11/30/2023,2023,227.176
+PROD5080,Cost,Beauty,236.01,ORD20080,CUST1080,349.84,Molly,jillsanders@yahoo.com,Niue,12/31/2023,2023,69.968
+PROD5081,Article,Clothing,20.32,ORD20081,CUST1081,1248.19,Michele,meghan56@stewart.com,Colombia,11/30/2023,2023,249.638
+PROD5082,Career,Books,64.25,ORD20082,CUST1082,688.07,Catherine,jennifereverett@nelson-davis.com,British Virgin Islands,5/31/2024,2024,137.614
+PROD5083,Draw,Clothing,99.86,ORD20083,CUST1083,686.2,David,wilsonjessica@yahoo.com,Moldova,9/30/2023,2023,137.24
+PROD5084,Media,Toys,58.83,ORD20084,CUST1084,1115.32,Kelly,smithcourtney@jones-love.org,Luxembourg,6/30/2024,2024,223.064
+PROD5085,Free,Toys,138,ORD20085,CUST1085,402.61,Kristi,robertscindy@gmail.com,Bahrain,9/30/2023,2023,80.522
+PROD5086,Southern,Clothing,291.61,ORD20086,CUST1086,1400.7,Robert,gary20@serrano-cruz.com,Congo,1/31/2025,2025,280.14
+PROD5087,Hard,Clothing,387.28,ORD20087,CUST1087,993.82,Sean,robertsongrant@anderson.com,British Indian Ocean Territory (Chagos Archipelago),5/31/2023,2023,198.764
+PROD5088,High,Beauty,419.98,ORD20088,CUST1088,176.94,Anita,bmiller@cantrell.info,Djibouti,6/30/2024,2024,35.388
+PROD5089,A,Home & Kitchen,452.5,ORD20089,CUST1089,1022.65,Derek,nathanielturner@yahoo.com,Grenada,11/30/2023,2023,204.53
+PROD5090,Throughout,Home & Kitchen,203.2,ORD20090,CUST1090,404.42,Debra,edward54@phillips.com,Guinea,10/31/2023,2023,80.884
+PROD5091,Claim,Clothing,151.71,ORD20091,CUST1091,1168.27,Laura,xross@short.com,France,11/30/2024,2024,233.654
+PROD5092,Door,Books,44.21,ORD20092,CUST1092,539.87,Kyle,robertbenson@gmail.com,United States Virgin Islands,11/30/2023,2023,107.974
+PROD5093,Power,Electronics,143.02,ORD20093,CUST1093,121.39,Sandra,jacksonmelissa@castillo.com,Guinea-Bissau,12/31/2023,2023,24.278
+PROD5094,Writer,Books,468.71,ORD20094,CUST1094,715.54,Tamara,millerjessica@smith.com,Anguilla,10/31/2023,2023,143.108
+PROD5095,Affect,Home & Kitchen,384.06,ORD20095,CUST1095,850.68,Eric,katrina97@gmail.com,Egypt,9/30/2024,2024,170.136
+PROD5096,Write,Beauty,176.58,ORD20096,CUST1096,1209.27,Johnathan,bfoley@gmail.com,Holy See (Vatican City State),12/31/2024,2024,241.854
+PROD5097,Range,Toys,424.3,ORD20097,CUST1097,850.12,Paul,velezlucas@yahoo.com,Belgium,5/31/2024,2024,170.024
+PROD5098,Campaign,Beauty,341.5,ORD20098,CUST1098,988.53,Jesus,mjenkins@stone.org,Congo,12/31/2023,2023,197.706
+PROD5099,Produce,Home & Kitchen,34.88,ORD20099,CUST1099,409.55,Stephen,lruiz@yahoo.com,Bhutan,10/31/2023,2023,81.91
+PROD5100,Score,Books,10.2,ORD20100,CUST1100,506.21,Gary,carterjenna@moran.com,Seychelles,1/31/2025,2025,101.242
+PROD5101,Idea,Electronics,104.44,ORD20101,CUST1101,1013.1,Timothy,singhshelly@harrison.biz,Romania,4/30/2023,2023,202.62
+PROD5102,Society,Toys,10.03,ORD20102,CUST1102,174.49,Julie,eroman@jones.info,Cote d'Ivoire,8/31/2023,2023,34.898
+PROD5103,Continue,Books,164.59,ORD20103,CUST1103,370.19,Ronald,ostuart@padilla-mueller.com,Wallis and Futuna,4/30/2024,2024,74.038
+PROD5104,Artist,Beauty,178.3,ORD20104,CUST1104,1011.97,Julie,butlernathan@avila-woods.net,Malta,7/31/2023,2023,202.394
+PROD5105,Provide,Toys,449.96,ORD20105,CUST1105,384.58,Crystal,combsaustin@ball.net,Guadeloupe,4/30/2024,2024,76.916
+PROD5106,Politics,Home & Kitchen,69.66,ORD20106,CUST1106,728.28,Zachary,richardsteresa@hotmail.com,Togo,10/31/2023,2023,145.656
+PROD5107,Box,Beauty,261.51,ORD20107,CUST1107,40.36,Sean,ugonzalez@morgan.org,Slovenia,10/31/2023,2023,8.072
+PROD5108,Child,Toys,329.96,ORD20108,CUST1108,1468.22,Maria,valentinetonya@brown.com,San Marino,10/31/2024,2024,293.644
+PROD5109,Yet,Beauty,10.41,ORD20109,CUST1109,248.95,Matthew,griffinjudith@whitney-moore.com,Aruba,3/31/2023,2023,49.79
+PROD5110,Because,Clothing,406.79,ORD20110,CUST1110,890.24,Christina,uperez@hotmail.com,British Indian Ocean Territory (Chagos Archipelago),6/30/2024,2024,178.048
+PROD5111,Keep,Beauty,386.06,ORD20111,CUST1111,807.34,Barbara,xpreston@stewart.org,Ethiopia,11/30/2023,2023,161.468
+PROD5112,Bar,Clothing,479.23,ORD20112,CUST1112,262.45,Caitlin,christina77@hutchinson.com,Mongolia,10/31/2023,2023,52.49
+PROD5113,Daughter,Beauty,412.81,ORD20113,CUST1113,669.45,Kelly,powersjason@james.info,Cote d'Ivoire,6/30/2023,2023,133.89
+PROD5114,Act,Books,272.18,ORD20114,CUST1114,1269.56,Tammy,matthew80@huffman-garcia.com,Armenia,11/30/2023,2023,253.912
+PROD5115,Answer,Toys,351.75,ORD20115,CUST1115,1403.14,Brett,kylerocha@larson-riggs.org,Luxembourg,8/31/2023,2023,280.628
+PROD5116,Majority,Toys,279.71,ORD20116,CUST1116,1312.46,Melissa,zgallegos@fleming.net,Nicaragua,9/30/2023,2023,262.492
+PROD5117,Gas,Clothing,302.71,ORD20117,CUST1117,1285.31,Megan,dawsonlori@hotmail.com,French Southern Territories,7/31/2024,2024,257.062
+PROD5118,Decade,Beauty,9.38,ORD20118,CUST1118,1145.68,Troy,elizabeth36@james-hughes.com,Bahamas,8/31/2024,2024,229.136
+PROD5119,Bar,Clothing,5.66,ORD20119,CUST1119,277.36,Michael,holmesbrian@yahoo.com,Gambia,6/30/2024,2024,55.472
+PROD5120,A,Home & Kitchen,420.74,ORD20120,CUST1120,954.7,Elizabeth,steve00@padilla.com,Mayotte,10/31/2023,2023,190.94
+PROD5121,Hope,Electronics,298.58,ORD20121,CUST1121,138.16,Nathan,kelly49@griffin-bryant.com,Belgium,12/31/2023,2023,27.632
+PROD5122,Above,Clothing,449.74,ORD20122,CUST1122,1457.82,Cole,austin90@gmail.com,Cameroon,2/28/2025,2025,291.564
+PROD5123,After,Home & Kitchen,36.66,ORD20123,CUST1123,900.84,Richard,adonovan@cantu.org,Saint Barthelemy,1/31/2024,2024,180.168
+PROD5124,Fine,Beauty,283.06,ORD20124,CUST1124,35.83,David,beansteven@fry.com,Germany,5/31/2023,2023,7.166
+PROD5125,Phone,Clothing,83.14,ORD20125,CUST1125,1067.54,Felicia,thomasyork@gmail.com,Brunei Darussalam,7/31/2024,2024,213.508
+PROD5126,Day,Clothing,331.75,ORD20126,CUST1126,1437.99,Kevin,melissa01@gmail.com,Saint Kitts and Nevis,9/30/2024,2024,287.598
+PROD5127,Want,Books,38.7,ORD20127,CUST1127,1213.53,Kenneth,usmith@thomas.net,Zambia,2/29/2024,2024,242.706
+PROD5128,Know,Electronics,6.64,ORD20128,CUST1128,1295.78,Brian,jjoyce@hancock-williams.com,Nepal,12/31/2024,2024,259.156
+PROD5129,Rather,Clothing,106.98,ORD20129,CUST1129,483.91,Eric,valenzuelastephanie@mckay.biz,Iraq,4/30/2023,2023,96.782
+PROD5130,Act,Books,467.48,ORD20130,CUST1130,82.18,Timothy,rose98@yahoo.com,Guam,4/30/2023,2023,16.436
+PROD5131,Tough,Electronics,431.26,ORD20131,CUST1131,425.97,Zachary,sarafoster@gmail.com,Holy See (Vatican City State),10/31/2024,2024,85.194
+PROD5132,Here,Home & Kitchen,90.05,ORD20132,CUST1132,1291.81,Justin,brianwolfe@hotmail.com,Senegal,3/31/2024,2024,258.362
+PROD5133,Support,Electronics,415.24,ORD20133,CUST1133,781.28,Lisa,sandra68@hernandez.com,Paraguay,3/31/2023,2023,156.256
+PROD5134,Leg,Books,101.22,ORD20134,CUST1134,213.76,Dorothy,serranomichael@yahoo.com,French Polynesia,11/30/2023,2023,42.752
+PROD5135,Line,Clothing,150.18,ORD20135,CUST1135,643.9,Ryan,ucollins@hotmail.com,Senegal,12/31/2023,2023,128.78
+PROD5136,Throughout,Beauty,112.42,ORD20136,CUST1136,1290.74,Monica,jon41@williams.com,Malta,1/31/2025,2025,258.148
+PROD5137,Money,Beauty,96.26,ORD20137,CUST1137,331.68,William,iburns@vega.com,Tonga,11/30/2024,2024,66.336
+PROD5138,Card,Beauty,158.08,ORD20138,CUST1138,469.38,Sherry,snowjohn@hotmail.com,Sweden,8/31/2024,2024,93.876
+PROD5139,Let,Electronics,156.61,ORD20139,CUST1139,321.17,David,michael94@gmail.com,Uganda,10/31/2023,2023,64.234
+PROD5140,Enjoy,Home & Kitchen,5.49,ORD20140,CUST1140,908.96,James,jacksonnatalie@brown.com,Mayotte,10/31/2023,2023,181.792
+PROD5141,Occur,Clothing,148.91,ORD20141,CUST1141,107.87,Michael,xwalker@gmail.com,Indonesia,10/31/2023,2023,21.574
+PROD5142,Commercial,Books,177.89,ORD20142,CUST1142,162.12,Joshua,vschneider@perez-james.com,Swaziland,12/31/2024,2024,32.424
+PROD5143,Almost,Books,353.45,ORD20143,CUST1143,502.83,David,jorge73@peters.com,Cape Verde,6/30/2023,2023,100.566
+PROD5144,About,Toys,97.55,ORD20144,CUST1144,779.1,Christopher,anakramer@pierce-guerrero.net,Spain,7/31/2023,2023,155.82
+PROD5145,Five,Toys,333.75,ORD20145,CUST1145,504.93,Tiffany,ubrown@yahoo.com,Namibia,11/30/2023,2023,100.986
+PROD5146,Ten,Clothing,196.29,ORD20146,CUST1146,383.84,Whitney,bobby09@hotmail.com,Saint Pierre and Miquelon,11/30/2024,2024,76.768
+PROD5147,Senior,Home & Kitchen,423.02,ORD20147,CUST1147,1308.47,Kimberly,mooremike@yahoo.com,Brazil,4/30/2024,2024,261.694
+PROD5148,Near,Clothing,7.62,ORD20148,CUST1148,79.87,David,irose@hotmail.com,Isle of Man,5/31/2023,2023,15.974
+PROD5149,Edge,Beauty,396.05,ORD20149,CUST1149,255.52,Jason,hansonalexis@yahoo.com,Serbia,10/31/2023,2023,51.104
+PROD5150,Different,Electronics,454.81,ORD20150,CUST1150,1080.82,Richard,michael77@hotmail.com,Iceland,2/28/2025,2025,216.164
+PROD5151,Our,Electronics,87.59,ORD20151,CUST1151,167.4,Erica,smithregina@brown.biz,Jordan,11/30/2024,2024,33.48
+PROD5152,Practice,Home & Kitchen,499.35,ORD20152,CUST1152,874.09,Michelle,sanchezregina@yahoo.com,Malaysia,3/31/2023,2023,174.818
+PROD5153,Sort,Clothing,78.64,ORD20153,CUST1153,1039.85,Donna,uberry@howe.com,Singapore,6/30/2023,2023,207.97
+PROD5154,Happy,Home & Kitchen,88.39,ORD20154,CUST1154,348.01,Wendy,ashley43@martin-fox.org,Costa Rica,1/31/2024,2024,69.602
+PROD5155,Affect,Toys,387.33,ORD20155,CUST1155,284.1,Gerald,vancejeremiah@castaneda.com,Congo,8/31/2024,2024,56.82
+PROD5156,Keep,Home & Kitchen,468.43,ORD20156,CUST1156,141.32,Andrew,janet97@gmail.com,Nepal,6/30/2024,2024,28.264
+PROD5157,Visit,Home & Kitchen,402.18,ORD20157,CUST1157,881.64,Scott,robin79@erickson.com,Philippines,9/30/2024,2024,176.328
+PROD5158,Another,Toys,263.31,ORD20158,CUST1158,747.95,Shawn,ipetersen@gmail.com,British Virgin Islands,4/30/2024,2024,149.59
+PROD5159,Deep,Books,215.66,ORD20159,CUST1159,1430.66,Brian,bowmanjason@flowers-gibbs.net,Burundi,9/30/2024,2024,286.132
+PROD5160,Top,Toys,239.36,ORD20160,CUST1160,142.24,Elizabeth,jeffersonheather@yahoo.com,Chile,2/28/2025,2025,28.448
+PROD5161,Evidence,Toys,286.94,ORD20161,CUST1161,301.5,Kyle,reeddestiny@yahoo.com,Senegal,1/31/2024,2024,60.3
+PROD5162,Together,Electronics,378.74,ORD20162,CUST1162,1139.69,Peter,mary34@campos-carter.com,South Africa,3/31/2023,2023,227.938
+PROD5163,Degree,Beauty,342.64,ORD20163,CUST1163,1293.41,Eileen,brooke77@yahoo.com,Algeria,4/30/2023,2023,258.682
+PROD5164,Accept,Clothing,138.89,ORD20164,CUST1164,540.52,James,lisataylor@clark-hernandez.com,South Georgia and the South Sandwich Islands,11/30/2023,2023,108.104
+PROD5165,Water,Home & Kitchen,274.81,ORD20165,CUST1165,305.99,Jody,fullermary@yahoo.com,Senegal,11/30/2023,2023,61.198
+PROD5166,Say,Clothing,347.68,ORD20166,CUST1166,1097.93,Alicia,mwalker@abbott.com,Turkey,8/31/2024,2024,219.586
+PROD5167,Improve,Books,235.98,ORD20167,CUST1167,1078.73,Cassandra,cameron80@yahoo.com,South Africa,1/31/2025,2025,215.746
+PROD5168,Every,Toys,325.64,ORD20168,CUST1168,887.54,Tiffany,justinhughes@hotmail.com,Colombia,9/30/2023,2023,177.508
+PROD5169,But,Toys,68.44,ORD20169,CUST1169,834.5,Jessica,tjohnson@brennan.com,Nicaragua,4/30/2023,2023,166.9
+PROD5170,Available,Beauty,336.42,ORD20170,CUST1170,1166.69,Lauren,aarcher@torres.com,Timor-Leste,7/31/2023,2023,233.338
+PROD5171,Word,Home & Kitchen,422.78,ORD20171,CUST1171,401.45,Sydney,randolphjohn@turner.info,Luxembourg,3/31/2023,2023,80.29
+PROD5172,Society,Toys,460.68,ORD20172,CUST1172,670.82,Dustin,mark01@gmail.com,Malta,11/30/2024,2024,134.164
+PROD5173,Learn,Beauty,23.06,ORD20173,CUST1173,1185.02,Thomas,ryan80@gmail.com,Martinique,8/31/2023,2023,237.004
+PROD5174,Drop,Books,260.72,ORD20174,CUST1174,948.31,Sherri,wrightalyssa@horton.com,Singapore,10/31/2024,2024,189.662
+PROD5175,Common,Toys,310.12,ORD20175,CUST1175,1220.01,Sonya,torresholly@ruiz-stevens.info,Trinidad and Tobago,9/30/2023,2023,244.002
+PROD5176,Subject,Electronics,63.45,ORD20176,CUST1176,429.38,Andrew,suzanne74@simmons.net,Bolivia,11/30/2024,2024,85.876
+PROD5177,Black,Toys,439.11,ORD20177,CUST1177,766,Lisa,vvelazquez@walker.com,Switzerland,4/30/2023,2023,153.2
+PROD5178,Member,Books,30.45,ORD20178,CUST1178,1212.4,Matthew,codythomas@hotmail.com,Antigua and Barbuda,5/31/2024,2024,242.48
+PROD5179,Film,Clothing,206.96,ORD20179,CUST1179,511.75,Denise,jamesvillegas@carlson.net,Palestinian Territory,2/28/2025,2025,102.35
+PROD5180,Owner,Beauty,33.22,ORD20180,CUST1180,563.78,Kelly,gcherry@yahoo.com,Italy,11/30/2023,2023,112.756
+PROD5181,Its,Books,176.44,ORD20181,CUST1181,927.44,Christine,sierra02@yahoo.com,Iraq,1/31/2025,2025,185.488
+PROD5182,Sound,Electronics,289.45,ORD20182,CUST1182,493.92,Jessica,brandonmitchell@hotmail.com,Marshall Islands,3/31/2023,2023,98.784
+PROD5183,Why,Home & Kitchen,437.76,ORD20183,CUST1183,1398.92,Nicole,howardmegan@ortiz.net,Algeria,6/30/2024,2024,279.784
+PROD5184,Coach,Electronics,88.73,ORD20184,CUST1184,1034.34,Karen,maria64@wright-escobar.com,Seychelles,5/31/2023,2023,206.868
+PROD5185,Son,Electronics,493.86,ORD20185,CUST1185,424.42,Alexandra,brownbrian@bishop-peters.info,Moldova,5/31/2023,2023,84.884
+PROD5186,Happy,Beauty,498.4,ORD20186,CUST1186,472.33,Stephen,kimberly71@mcdonald-webb.info,Trinidad and Tobago,12/31/2024,2024,94.466
+PROD5187,Call,Electronics,112.6,ORD20187,CUST1187,912.76,Kenneth,susanhunt@hotmail.com,Georgia,11/30/2023,2023,182.552
+PROD5188,Push,Clothing,407.98,ORD20188,CUST1188,278.3,Susan,jjohnson@benson.com,Bulgaria,10/31/2023,2023,55.66
+PROD5189,Up,Home & Kitchen,229.4,ORD20189,CUST1189,885.85,Elizabeth,bflores@brewer-maxwell.com,Seychelles,7/31/2024,2024,177.17
+PROD5190,Attention,Electronics,266.31,ORD20190,CUST1190,560.25,Michael,danielle07@gmail.com,Colombia,1/31/2025,2025,112.05
+PROD5191,Him,Clothing,485.29,ORD20191,CUST1191,282.32,Luis,marshamy@wang-mitchell.com,Gambia,3/31/2023,2023,56.464
+PROD5192,Coach,Books,371.31,ORD20192,CUST1192,25.43,Eric,joneschristopher@yahoo.com,Afghanistan,3/31/2023,2023,5.086
+PROD5193,Available,Toys,160.68,ORD20193,CUST1193,270.4,Erin,santosbrandi@brown-ruiz.com,Greenland,8/31/2024,2024,54.08
+PROD5194,Like,Home & Kitchen,339.73,ORD20194,CUST1194,168.05,Randall,bking@yahoo.com,Djibouti,12/31/2023,2023,33.61
+PROD5195,North,Beauty,439.26,ORD20195,CUST1195,1433.53,Hannah,mnguyen@gmail.com,Madagascar,9/30/2024,2024,286.706
+PROD5196,Than,Toys,388.23,ORD20196,CUST1196,1007.93,James,kjohnson@rios.com,Puerto Rico,11/30/2024,2024,201.586
+PROD5197,Turn,Beauty,256.25,ORD20197,CUST1197,464.6,Leslie,lrose@yahoo.com,Maldives,2/29/2024,2024,92.92
+PROD5198,Old,Clothing,367.66,ORD20198,CUST1198,152.91,Carolyn,vanessa60@barber.com,Monaco,1/31/2024,2024,30.582
+PROD5199,Scene,Books,339.8,ORD20199,CUST1199,931.26,Jennifer,christinarivera@yahoo.com,Svalbard & Jan Mayen Islands,6/30/2023,2023,186.252
+PROD5200,Save,Electronics,30.54,ORD20200,CUST1200,1466.7,David,benjaminmartinez@cooper.net,Isle of Man,11/30/2023,2023,293.34
+PROD5201,Hear,Clothing,160,ORD20201,CUST1201,429.64,Tyler,bruce03@yahoo.com,Northern Mariana Islands,2/29/2024,2024,85.928
+PROD5202,Machine,Electronics,46.46,ORD20202,CUST1202,349.81,Ryan,xhogan@gray.com,Saint Martin,1/31/2025,2025,69.962
+PROD5203,Agreement,Clothing,351.76,ORD20203,CUST1203,873.06,Michael,amy07@cole.com,Peru,10/31/2023,2023,174.612
+PROD5204,Time,Toys,398.49,ORD20204,CUST1204,53.45,Brandon,benjamin24@mills-mejia.info,Niger,5/31/2024,2024,10.69
+PROD5205,Office,Home & Kitchen,321.39,ORD20205,CUST1205,137.69,Marvin,susanwalker@nguyen-ortiz.com,British Virgin Islands,8/31/2023,2023,27.538
+PROD5206,Cost,Books,287.32,ORD20206,CUST1206,22.55,Karen,hughesjennifer@collins.com,Senegal,11/30/2023,2023,4.51
+PROD5207,Around,Clothing,27.42,ORD20207,CUST1207,722.51,Samantha,xguzman@yahoo.com,China,10/31/2024,2024,144.502
+PROD5208,Safe,Clothing,287.8,ORD20208,CUST1208,969.88,Michele,william74@buckley.com,Senegal,8/31/2023,2023,193.976
+PROD5209,Recently,Toys,408.14,ORD20209,CUST1209,140.9,James,jonathan63@hotmail.com,Taiwan,9/30/2024,2024,28.18
+PROD5210,According,Clothing,192.89,ORD20210,CUST1210,1435.09,Marissa,alexander95@carpenter.com,Bosnia and Herzegovina,12/31/2023,2023,287.018
+PROD5211,Color,Books,44.01,ORD20211,CUST1211,430.99,Crystal,april24@gmail.com,Kuwait,11/30/2023,2023,86.198
+PROD5212,Manage,Electronics,419.44,ORD20212,CUST1212,568.32,Keith,ttaylor@hotmail.com,Palau,6/30/2024,2024,113.664
+PROD5213,Add,Clothing,414.78,ORD20213,CUST1213,918.26,Daniel,hmeyer@yahoo.com,Western Sahara,9/30/2023,2023,183.652
+PROD5214,Leave,Books,68.81,ORD20214,CUST1214,872.36,James,rlee@yahoo.com,Pakistan,8/31/2024,2024,174.472
+PROD5215,Treat,Electronics,255.38,ORD20215,CUST1215,732.33,Kelly,zle@shaffer-jenkins.com,Rwanda,5/31/2024,2024,146.466
+PROD5216,Plan,Beauty,350.19,ORD20216,CUST1216,1110.25,Benjamin,yross@yahoo.com,Paraguay,7/31/2023,2023,222.05
+PROD5217,Rest,Books,374.94,ORD20217,CUST1217,1266.74,Dustin,scottzavala@hotmail.com,Japan,12/31/2023,2023,253.348
+PROD5218,Bar,Clothing,301.4,ORD20218,CUST1218,1060.16,Timothy,hayesbryan@guzman.com,Kuwait,7/31/2024,2024,212.032
+PROD5219,Perform,Home & Kitchen,307.07,ORD20219,CUST1219,786.19,Elizabeth,chelsea52@gmail.com,Netherlands Antilles,1/31/2024,2024,157.238
+PROD5220,In,Clothing,9.66,ORD20220,CUST1220,450.42,Nicholas,betty27@dickson-ramirez.biz,Micronesia,3/31/2023,2023,90.084
+PROD5221,Attack,Home & Kitchen,336.37,ORD20221,CUST1221,493.01,Mary,zacharylutz@gmail.com,Cayman Islands,11/30/2023,2023,98.602
+PROD5222,Bag,Beauty,226.87,ORD20222,CUST1222,675.43,Alexandra,tonya80@hotmail.com,United States of America,5/31/2024,2024,135.086
+PROD5223,Learn,Beauty,57.07,ORD20223,CUST1223,525.64,Heather,daniel66@mueller.com,Oman,9/30/2023,2023,105.128
+PROD5224,Let,Books,329,ORD20224,CUST1224,208.21,Denise,johnscott@clark.com,Germany,1/31/2025,2025,41.642
+PROD5225,Lay,Electronics,10.37,ORD20225,CUST1225,440.36,Kevin,anthonydixon@castillo-flores.org,Jersey,3/31/2023,2023,88.072
+PROD5226,Student,Electronics,173.43,ORD20226,CUST1226,139.33,Bobby,bobbyrussell@gmail.com,Anguilla,3/31/2023,2023,27.866
+PROD5227,Fact,Beauty,359.85,ORD20227,CUST1227,203.38,Katrina,sarabyrd@gmail.com,Angola,6/30/2024,2024,40.676
+PROD5228,Choose,Clothing,475.06,ORD20228,CUST1228,185.17,Cindy,timothystrickland@hotmail.com,Peru,3/31/2024,2024,37.034
+PROD5229,On,Electronics,290.29,ORD20229,CUST1229,709.67,Kelly,nicoleroy@olson-clark.com,Armenia,9/30/2023,2023,141.934
+PROD5230,Fund,Home & Kitchen,298.65,ORD20230,CUST1230,558.13,Carolyn,tracy80@wolf.com,Pakistan,6/30/2023,2023,111.626
+PROD5231,Traditional,Toys,494.25,ORD20231,CUST1231,675.66,April,ryanchavez@roth.com,Anguilla,4/30/2024,2024,135.132
+PROD5232,Indeed,Beauty,331.09,ORD20232,CUST1232,783.27,Larry,rodriguezjonathan@gmail.com,Oman,1/31/2024,2024,156.654
+PROD5233,Movie,Home & Kitchen,219.22,ORD20233,CUST1233,195.2,Derek,nicholasrobinson@griffin.org,Ethiopia,9/30/2024,2024,39.04
+PROD5234,Compare,Books,23.27,ORD20234,CUST1234,983.82,Sarah,janice48@mills.com,Sao Tome and Principe,1/31/2025,2025,196.764
+PROD5235,Reveal,Beauty,154.57,ORD20235,CUST1235,562.83,Jennifer,nicholas04@hotmail.com,Japan,7/31/2023,2023,112.566
+PROD5236,Nation,Clothing,274.13,ORD20236,CUST1236,1472.5,Rachel,christophersimmons@peters.com,Korea,10/31/2023,2023,294.5
+PROD5237,Trouble,Beauty,127.28,ORD20237,CUST1237,1195.4,Ricky,joshuatran@cole.com,Kyrgyz Republic,12/31/2023,2023,239.08
+PROD5238,Year,Clothing,304.67,ORD20238,CUST1238,677.69,Regina,ekim@taylor.info,United Arab Emirates,11/30/2024,2024,135.538
+PROD5239,Pm,Clothing,367.02,ORD20239,CUST1239,69.62,Wendy,williamscharles@stephens.com,Timor-Leste,6/30/2024,2024,13.924
+PROD5240,Recognize,Toys,498.5,ORD20240,CUST1240,166.17,Anne,carlsonjames@gmail.com,Algeria,3/31/2024,2024,33.234
+PROD5241,Respond,Books,265.82,ORD20241,CUST1241,647.41,Janet,comptonmichael@melendez-zimmerman.info,San Marino,8/31/2023,2023,129.482
+PROD5242,Even,Toys,304.34,ORD20242,CUST1242,1205.68,Austin,dylan99@yahoo.com,Trinidad and Tobago,11/30/2024,2024,241.136
+PROD5243,In,Clothing,345.5,ORD20243,CUST1243,731.02,Zachary,sosajacob@yahoo.com,New Caledonia,8/31/2023,2023,146.204
+PROD5244,About,Electronics,217.73,ORD20244,CUST1244,219.06,Ashley,zsmith@matthews.com,Saudi Arabia,11/30/2023,2023,43.812
+PROD5245,Hope,Beauty,445.45,ORD20245,CUST1245,330.3,Jessica,christopherbradley@snyder.net,Congo,9/30/2023,2023,66.06
+PROD5246,First,Clothing,154.46,ORD20246,CUST1246,364.77,Anne,lopezfelicia@reed-martinez.com,Iraq,9/30/2024,2024,72.954
+PROD5247,Everyone,Clothing,74.87,ORD20247,CUST1247,708.3,Jacob,campbelljose@hotmail.com,United States Virgin Islands,3/31/2024,2024,141.66
+PROD5248,Part,Clothing,327.15,ORD20248,CUST1248,67.83,Christopher,morrisbrian@watson.com,Vanuatu,9/30/2024,2024,13.566
+PROD5249,Something,Electronics,205.69,ORD20249,CUST1249,744.56,Jennifer,nancy34@gmail.com,French Southern Territories,7/31/2024,2024,148.912
+PROD5250,Style,Beauty,461.97,ORD20250,CUST1250,460.16,Gregory,bwarren@sampson-scott.com,Palestinian Territory,9/30/2024,2024,92.032
+PROD5251,Ready,Clothing,34.77,ORD20251,CUST1251,117.3,Jeffrey,reidrebekah@walsh-torres.net,Macao,1/31/2024,2024,23.46
+PROD5252,Yard,Electronics,401.38,ORD20252,CUST1252,531.18,Donna,gomeznancy@gmail.com,Cote d'Ivoire,3/31/2023,2023,106.236
+PROD5253,Similar,Electronics,398.52,ORD20253,CUST1253,333.68,Michael,mario39@white-bates.com,Qatar,9/30/2024,2024,66.736
+PROD5254,Off,Home & Kitchen,282.87,ORD20254,CUST1254,1150.12,Joseph,cabrerasamuel@gmail.com,Brunei Darussalam,3/31/2023,2023,230.024
+PROD5255,Industry,Home & Kitchen,134.43,ORD20255,CUST1255,592.14,Katie,carla66@cruz-harper.com,Swaziland,4/30/2023,2023,118.428
+PROD5256,Whose,Home & Kitchen,166.15,ORD20256,CUST1256,1451.13,Christopher,qgreen@warren.com,Senegal,12/31/2023,2023,290.226
+PROD5257,Model,Books,157.48,ORD20257,CUST1257,1147.91,James,jonesdillon@yahoo.com,Montserrat,2/28/2023,2023,229.582
+PROD5258,Reduce,Toys,290.07,ORD20258,CUST1258,1150.51,Mark,masonadrian@huff.com,Argentina,5/31/2024,2024,230.102
+PROD5259,Benefit,Clothing,292.03,ORD20259,CUST1259,1113.27,Michael,plee@dunlap.com,Saint Barthelemy,5/31/2024,2024,222.654
+PROD5260,Her,Books,196.65,ORD20260,CUST1260,131.99,Frank,nelsonstephanie@gmail.com,Lebanon,12/31/2024,2024,26.398
+PROD5261,Data,Toys,304.01,ORD20261,CUST1261,402.61,Nicole,mleonard@hotmail.com,Estonia,1/31/2024,2024,80.522
+PROD5262,Return,Toys,6.61,ORD20262,CUST1262,177.84,Tara,kelleyrobert@yahoo.com,Korea,10/31/2023,2023,35.568
+PROD5263,About,Clothing,410.75,ORD20263,CUST1263,256.49,Nicholas,brittany72@hotmail.com,Afghanistan,11/30/2023,2023,51.298
+PROD5264,Significant,Toys,484.71,ORD20264,CUST1264,1430.17,Alexis,tracy70@hotmail.com,Zimbabwe,4/30/2023,2023,286.034
+PROD5265,Style,Toys,190.19,ORD20265,CUST1265,845.05,Bradley,melissaclayton@yahoo.com,Namibia,10/31/2023,2023,169.01
+PROD5266,Before,Clothing,222.37,ORD20266,CUST1266,1420.39,Danielle,joneseileen@lewis-hogan.com,Pitcairn Islands,1/31/2024,2024,284.078
+PROD5267,Minute,Electronics,382.74,ORD20267,CUST1267,462.17,Alyssa,rthomas@day.com,Peru,4/30/2023,2023,92.434
+PROD5268,North,Clothing,388.92,ORD20268,CUST1268,598.08,Damon,gcastaneda@hotmail.com,Montserrat,8/31/2024,2024,119.616
+PROD5269,State,Electronics,284.98,ORD20269,CUST1269,36.78,Tiffany,bruceeric@tyler.com,Russian Federation,11/30/2023,2023,7.356
+PROD5270,Provide,Electronics,166.71,ORD20270,CUST1270,1117.43,Ann,alexa68@brown.com,San Marino,10/31/2023,2023,223.486
+PROD5271,Federal,Beauty,329.38,ORD20271,CUST1271,1071.19,Craig,igarcia@alexander.biz,Uganda,8/31/2024,2024,214.238
+PROD5272,Student,Beauty,487.77,ORD20272,CUST1272,1056.06,William,cerickson@thompson.com,Namibia,10/31/2024,2024,211.212
+PROD5273,Whose,Home & Kitchen,386.46,ORD20273,CUST1273,552.58,Linda,harmonlisa@horne-lee.com,Guernsey,3/31/2024,2024,110.516
+PROD5274,Unit,Books,228.98,ORD20274,CUST1274,309.74,Kevin,annajohnson@collins.org,Russian Federation,10/31/2024,2024,61.948
+PROD5275,Four,Beauty,389.37,ORD20275,CUST1275,949.88,Danny,ujackson@jacobson.org,Papua New Guinea,4/30/2023,2023,189.976
+PROD5276,Mean,Clothing,458.83,ORD20276,CUST1276,1324,Daniel,nvasquez@hotmail.com,Malawi,4/30/2024,2024,264.8
+PROD5277,Last,Toys,400.71,ORD20277,CUST1277,492.93,Roger,pbailey@yahoo.com,Congo,10/31/2024,2024,98.586
+PROD5278,Baby,Clothing,192.19,ORD20278,CUST1278,785.59,Danny,karensimon@hotmail.com,Iceland,7/31/2023,2023,157.118
+PROD5279,Subject,Home & Kitchen,494.91,ORD20279,CUST1279,696.95,Joel,mooneystefanie@riddle.info,British Indian Ocean Territory (Chagos Archipelago),12/31/2024,2024,139.39
+PROD5280,Degree,Books,154.66,ORD20280,CUST1280,770.27,Stephanie,charles95@hotmail.com,China,8/31/2023,2023,154.054
+PROD5281,Sing,Toys,276.44,ORD20281,CUST1281,398.41,Joshua,dandrews@nguyen.biz,Qatar,7/31/2023,2023,79.682
+PROD5282,Again,Home & Kitchen,444.83,ORD20282,CUST1282,739.5,William,jbarker@frank-miles.com,Estonia,3/31/2023,2023,147.9
+PROD5283,Pattern,Beauty,286.61,ORD20283,CUST1283,228.69,Amber,kimberly01@hernandez.info,Timor-Leste,5/31/2024,2024,45.738
+PROD5284,Involve,Books,133.56,ORD20284,CUST1284,795.41,David,cwoods@moore.org,Bangladesh,2/29/2024,2024,159.082
+PROD5285,Boy,Clothing,344.63,ORD20285,CUST1285,1353.18,John,xgonzales@gmail.com,South Georgia and the South Sandwich Islands,10/31/2023,2023,270.636
+PROD5286,Base,Toys,446.84,ORD20286,CUST1286,1246.69,Timothy,brownnancy@rhodes.biz,Luxembourg,5/31/2023,2023,249.338
+PROD5287,Interest,Books,380.26,ORD20287,CUST1287,80.54,Maurice,jillcampbell@hotmail.com,Mozambique,8/31/2024,2024,16.108
+PROD5288,Special,Beauty,184.07,ORD20288,CUST1288,476.48,Tamara,ebenitez@randall.org,Denmark,12/31/2024,2024,95.296
+PROD5289,Listen,Beauty,95.38,ORD20289,CUST1289,760.76,Erika,gortiz@hotmail.com,Thailand,5/31/2024,2024,152.152
+PROD5290,Lead,Toys,42.24,ORD20290,CUST1290,1290.24,Tyrone,phuynh@parks.info,Hong Kong,4/30/2024,2024,258.048
+PROD5291,Spring,Beauty,198.27,ORD20291,CUST1291,1184.78,Natasha,stacy28@farley.com,Antarctica (the territory South of 60 deg S),8/31/2024,2024,236.956
+PROD5292,Weight,Toys,460.37,ORD20292,CUST1292,158.61,Frank,zbush@adams-compton.com,Saint Helena,3/31/2024,2024,31.722
+PROD5293,Cold,Home & Kitchen,50.17,ORD20293,CUST1293,536.6,Adam,coreyoliver@hotmail.com,Turkey,6/30/2023,2023,107.32
+PROD5294,Full,Beauty,194.34,ORD20294,CUST1294,418.17,Marie,perryblake@hotmail.com,Colombia,8/31/2024,2024,83.634
+PROD5295,Case,Clothing,261.53,ORD20295,CUST1295,207.85,Nathan,kathryn59@yahoo.com,Nepal,4/30/2024,2024,41.57
+PROD5296,Its,Toys,350.56,ORD20296,CUST1296,571.41,Brooke,grahambeth@fisher.com,British Virgin Islands,3/31/2024,2024,114.282
+PROD5297,Weight,Beauty,87.11,ORD20297,CUST1297,1200.56,Jason,vanessasims@gmail.com,France,1/31/2025,2025,240.112
+PROD5298,Strong,Books,135.09,ORD20298,CUST1298,1353.29,Kayla,lfloyd@knapp.com,Ghana,1/31/2025,2025,270.658
+PROD5299,Quickly,Home & Kitchen,391.24,ORD20299,CUST1299,84.15,Shannon,garrettholt@white.org,Timor-Leste,8/31/2023,2023,16.83
+PROD5300,Religious,Home & Kitchen,300.94,ORD20300,CUST1300,913.21,Alexander,gardnertheresa@lowery.com,Guinea,2/29/2024,2024,182.642
+PROD5301,Line,Clothing,449.45,ORD20301,CUST1301,384.94,Michael,bradleyhoffman@liu.info,Marshall Islands,9/30/2024,2024,76.988
+PROD5302,Figure,Books,270.49,ORD20302,CUST1302,558.64,Kevin,hendersonveronica@yahoo.com,Singapore,7/31/2024,2024,111.728
+PROD5303,His,Clothing,388.08,ORD20303,CUST1303,1153.67,Theresa,audreywhite@gmail.com,American Samoa,5/31/2024,2024,230.734
+PROD5304,Them,Toys,35.66,ORD20304,CUST1304,469.62,Patricia,allenmcintyre@rios.info,Germany,6/30/2024,2024,93.924
+PROD5305,Support,Beauty,129.11,ORD20305,CUST1305,956.71,Elaine,tclark@gmail.com,Vanuatu,11/30/2023,2023,191.342
+PROD5306,Which,Beauty,439.84,ORD20306,CUST1306,757.02,Scott,davidcruz@osborne.info,Paraguay,7/31/2024,2024,151.404
+PROD5307,Building,Books,176.27,ORD20307,CUST1307,718.09,Debra,penaashley@yahoo.com,Benin,6/30/2023,2023,143.618
+PROD5308,Cold,Books,208.22,ORD20308,CUST1308,714.55,Ariel,qprice@yahoo.com,Guam,12/31/2024,2024,142.91
+PROD5309,Level,Books,258.33,ORD20309,CUST1309,579.29,Tiffany,josephkathryn@hall.com,Switzerland,8/31/2024,2024,115.858
+PROD5310,Wide,Beauty,193.31,ORD20310,CUST1310,313.67,Abigail,fred95@hotmail.com,Sierra Leone,10/31/2023,2023,62.734
+PROD5311,As,Toys,165.31,ORD20311,CUST1311,1315.2,Kara,virginia26@yahoo.com,Heard Island and McDonald Islands,3/31/2023,2023,263.04
+PROD5312,Onto,Home & Kitchen,486.68,ORD20312,CUST1312,1056.87,Mary,brownjoshua@evans.com,New Zealand,11/30/2024,2024,211.374
+PROD5313,Many,Toys,99.77,ORD20313,CUST1313,649.79,Russell,upeterson@gmail.com,Korea,5/31/2023,2023,129.958
+PROD5314,Identify,Toys,237.21,ORD20314,CUST1314,741.57,George,marcia81@yahoo.com,Papua New Guinea,5/31/2024,2024,148.314
+PROD5315,Growth,Toys,319.44,ORD20315,CUST1315,865.96,Kyle,audrey85@hotmail.com,Guinea,8/31/2023,2023,173.192
+PROD5316,Purpose,Clothing,400.35,ORD20316,CUST1316,233.47,Steven,kbarrett@brown.com,Turks and Caicos Islands,7/31/2023,2023,46.694
+PROD5317,Represent,Clothing,133.02,ORD20317,CUST1317,151.13,Tony,jesse15@weber.org,Belgium,3/31/2023,2023,30.226
+PROD5318,Store,Books,459.3,ORD20318,CUST1318,538.22,Michelle,hwright@gmail.com,Burkina Faso,9/30/2024,2024,107.644
+PROD5319,Claim,Electronics,169.85,ORD20319,CUST1319,1450.18,Karina,vflores@mason.net,Marshall Islands,6/30/2023,2023,290.036
+PROD5320,Collection,Toys,140.98,ORD20320,CUST1320,638.84,Monica,aaron61@gmail.com,Portugal,8/31/2024,2024,127.768
+PROD5321,Four,Clothing,305.95,ORD20321,CUST1321,1037.36,Allen,haynesaaron@guerrero.com,Venezuela,5/31/2024,2024,207.472
+PROD5322,Read,Books,496.64,ORD20322,CUST1322,238.13,Thomas,joshuabaker@woodard.info,Puerto Rico,5/31/2024,2024,47.626
+PROD5323,Senior,Home & Kitchen,168.78,ORD20323,CUST1323,882.83,Amanda,ehoward@gmail.com,United States Minor Outlying Islands,3/31/2023,2023,176.566
+PROD5324,West,Electronics,66.72,ORD20324,CUST1324,65.39,Lisa,vlittle@rush.biz,Afghanistan,3/31/2024,2024,13.078
+PROD5325,Rise,Toys,252.15,ORD20325,CUST1325,1223.76,William,lindsay22@gmail.com,Romania,2/29/2024,2024,244.752
+PROD5326,Little,Toys,282.8,ORD20326,CUST1326,723.22,Linda,duncanbenjamin@butler.com,Turkmenistan,8/31/2024,2024,144.644
+PROD5327,Know,Electronics,33.38,ORD20327,CUST1327,1072.5,Crystal,downsmichael@hotmail.com,Croatia,10/31/2023,2023,214.5
+PROD5328,Cup,Home & Kitchen,355.63,ORD20328,CUST1328,195.52,Andre,jacobbartlett@yahoo.com,Uzbekistan,9/30/2023,2023,39.104
+PROD5329,Free,Beauty,441.64,ORD20329,CUST1329,274.26,Mitchell,daniellehayes@taylor.com,Sudan,5/31/2024,2024,54.852
+PROD5330,Nor,Electronics,486.35,ORD20330,CUST1330,22.37,Marc,ksutton@jennings.biz,Macao,4/30/2024,2024,4.474
+PROD5331,When,Books,75.93,ORD20331,CUST1331,1293.22,Patrick,latoya35@yahoo.com,Svalbard & Jan Mayen Islands,12/31/2023,2023,258.644
+PROD5332,General,Toys,161.96,ORD20332,CUST1332,982.98,Mark,billyflores@chaney-murphy.com,Kyrgyz Republic,9/30/2023,2023,196.596
+PROD5333,Across,Electronics,472.6,ORD20333,CUST1333,352.43,Vanessa,santanajason@johnson.com,Wallis and Futuna,12/31/2024,2024,70.486
+PROD5334,Here,Home & Kitchen,194.49,ORD20334,CUST1334,1011.19,Michelle,jreyes@hotmail.com,Nigeria,11/30/2023,2023,202.238
+PROD5335,Site,Toys,89.97,ORD20335,CUST1335,39.98,Charles,darlene91@barrett-bowman.com,Reunion,2/28/2023,2023,7.996
+PROD5336,Artist,Beauty,56.62,ORD20336,CUST1336,175.15,Misty,benjaminhunter@shaffer.com,United States of America,8/31/2024,2024,35.03
+PROD5337,Trial,Beauty,24.29,ORD20337,CUST1337,116.29,Shannon,david50@hotmail.com,Montserrat,6/30/2023,2023,23.258
+PROD5338,Others,Toys,72.42,ORD20338,CUST1338,1185.63,Edward,ashley81@fox.net,United States of America,8/31/2023,2023,237.126
+PROD5339,Blood,Beauty,193.17,ORD20339,CUST1339,761.39,Stephanie,kirsten59@young.net,Comoros,7/31/2023,2023,152.278
+PROD5340,Art,Clothing,152.72,ORD20340,CUST1340,781.1,Megan,gary27@yahoo.com,Cayman Islands,3/31/2023,2023,156.22
+PROD5341,Low,Books,77.93,ORD20341,CUST1341,932.52,Natalie,jpage@yahoo.com,Falkland Islands (Malvinas),6/30/2023,2023,186.504
+PROD5342,Site,Electronics,331.43,ORD20342,CUST1342,1011.46,Philip,leslie33@hotmail.com,Moldova,2/29/2024,2024,202.292
+PROD5343,Far,Beauty,221.46,ORD20343,CUST1343,571.58,Rebecca,nicole37@hotmail.com,Macao,1/31/2024,2024,114.316
+PROD5344,Outside,Books,300.32,ORD20344,CUST1344,285.53,Zachary,pereztina@hotmail.com,Central African Republic,12/31/2024,2024,57.106
+PROD5345,Art,Books,64.11,ORD20345,CUST1345,1132.82,Tammy,lyonsshawn@washington.com,Fiji,5/31/2023,2023,226.564
+PROD5346,Teacher,Home & Kitchen,294.83,ORD20346,CUST1346,386.08,Bailey,laurenhawkins@gmail.com,Grenada,7/31/2024,2024,77.216
+PROD5347,Time,Home & Kitchen,137.66,ORD20347,CUST1347,1366.37,Randy,glennthomas@gmail.com,Suriname,10/31/2024,2024,273.274
+PROD5348,Effect,Electronics,204.6,ORD20348,CUST1348,1060.46,Jackie,tyroneperez@yahoo.com,Uganda,1/31/2024,2024,212.092
+PROD5349,Bad,Electronics,450.48,ORD20349,CUST1349,570.89,Sara,whitejeremy@porter-brown.com,Afghanistan,10/31/2024,2024,114.178
+PROD5350,Organization,Home & Kitchen,127.69,ORD20350,CUST1350,1119.09,Alan,gwebb@yahoo.com,Canada,11/30/2024,2024,223.818
+PROD5351,Spring,Electronics,313.53,ORD20351,CUST1351,959.87,Daniel,efry@reed.com,Ecuador,4/30/2024,2024,191.974
+PROD5352,Year,Home & Kitchen,107.33,ORD20352,CUST1352,22.53,Maurice,felicia59@gmail.com,United States Minor Outlying Islands,12/31/2024,2024,4.506
+PROD5353,You,Toys,273.89,ORD20353,CUST1353,602.41,David,elewis@cooper-stone.com,Sweden,5/31/2024,2024,120.482
+PROD5354,Left,Books,18.79,ORD20354,CUST1354,176.32,Tanya,brittanyshelton@cummings.com,Holy See (Vatican City State),8/31/2023,2023,35.264
+PROD5355,Turn,Books,263.61,ORD20355,CUST1355,961.03,Ashley,brandonowens@hotmail.com,Bosnia and Herzegovina,2/29/2024,2024,192.206
+PROD5356,Best,Books,450.95,ORD20356,CUST1356,766,Amy,kbarnes@yahoo.com,Anguilla,9/30/2023,2023,153.2
+PROD5357,Maintain,Toys,241.2,ORD20357,CUST1357,871.81,Peter,jessicagoodman@mccarty-kelly.com,Serbia,6/30/2023,2023,174.362
+PROD5358,Forward,Toys,304.11,ORD20358,CUST1358,1477.16,Tyler,sheila22@chen.org,Azerbaijan,10/31/2024,2024,295.432
+PROD5359,Way,Beauty,343.54,ORD20359,CUST1359,361.55,Marvin,avazquez@kelley.com,France,11/30/2023,2023,72.31
+PROD5360,Seem,Beauty,356.59,ORD20360,CUST1360,1309.29,Joshua,nicholsjessica@yahoo.com,Grenada,5/31/2024,2024,261.858
+PROD5361,Coach,Beauty,202.4,ORD20361,CUST1361,1179.63,Jennifer,vcooper@gardner.info,Haiti,9/30/2023,2023,235.926
+PROD5362,Up,Home & Kitchen,390.04,ORD20362,CUST1362,1050.67,Tiffany,martinezwanda@gmail.com,Montserrat,9/30/2023,2023,210.134
+PROD5363,Meet,Books,444.7,ORD20363,CUST1363,1322.2,Scott,markking@gmail.com,Belarus,1/31/2024,2024,264.44
+PROD5364,Outside,Toys,144.99,ORD20364,CUST1364,205.07,Michelle,savannahdiaz@mercer-johnson.com,Saint Martin,9/30/2023,2023,41.014
+PROD5365,Future,Electronics,430.78,ORD20365,CUST1365,1108.4,Sarah,michellecarter@gmail.com,Norway,4/30/2024,2024,221.68
+PROD5366,Anyone,Books,275.42,ORD20366,CUST1366,1369.96,Kristen,dwilliams@yahoo.com,Afghanistan,1/31/2025,2025,273.992
+PROD5367,Radio,Home & Kitchen,98.91,ORD20367,CUST1367,672.83,Kenneth,brittany46@yahoo.com,India,10/31/2024,2024,134.566
+PROD5368,Seat,Beauty,239.52,ORD20368,CUST1368,399.62,Antonio,michael27@kim.biz,Mauritania,9/30/2024,2024,79.924
+PROD5369,Fire,Home & Kitchen,411.59,ORD20369,CUST1369,241.05,Hannah,shawn92@drake.com,Palestinian Territory,6/30/2024,2024,48.21
+PROD5370,Not,Home & Kitchen,91.84,ORD20370,CUST1370,1071.09,David,alawrence@gmail.com,Belgium,3/31/2024,2024,214.218
+PROD5371,Tend,Home & Kitchen,433.86,ORD20371,CUST1371,978.61,Joseph,vickie14@sullivan.com,Mongolia,1/31/2024,2024,195.722
+PROD5372,Sea,Home & Kitchen,92.43,ORD20372,CUST1372,158.29,Jessica,garciaanthony@valenzuela.com,Sri Lanka,10/31/2024,2024,31.658
+PROD5373,Service,Home & Kitchen,138.38,ORD20373,CUST1373,178.98,Matthew,hshepherd@gmail.com,Aruba,8/31/2024,2024,35.796
+PROD5374,Mouth,Electronics,120.86,ORD20374,CUST1374,961.2,George,jerrystewart@newman-knight.com,Belarus,2/28/2023,2023,192.24
+PROD5375,Show,Home & Kitchen,457.22,ORD20375,CUST1375,1323.94,Leslie,jennifer43@yahoo.com,Turkmenistan,3/31/2024,2024,264.788
+PROD5376,Husband,Beauty,60.77,ORD20376,CUST1376,270.31,Joshua,jfox@gmail.com,Panama,6/30/2023,2023,54.062
+PROD5377,Blood,Toys,11.77,ORD20377,CUST1377,1416.16,Rhonda,johnhubbard@garcia.biz,Saint Barthelemy,3/31/2023,2023,283.232
+PROD5378,Minute,Electronics,34.85,ORD20378,CUST1378,440.35,Edward,jwilson@silva-henderson.com,Djibouti,8/31/2024,2024,88.07
+PROD5379,Every,Books,167.28,ORD20379,CUST1379,66.82,Susan,jenniferwhite@hotmail.com,Bahamas,5/31/2023,2023,13.364
+PROD5380,Each,Beauty,271.66,ORD20380,CUST1380,510.42,George,jayrosales@meza.com,Seychelles,9/30/2024,2024,102.084
+PROD5381,Serve,Beauty,451.67,ORD20381,CUST1381,671.75,Abigail,sherylcarter@frost-robbins.com,Zimbabwe,9/30/2023,2023,134.35
+PROD5382,National,Books,410.71,ORD20382,CUST1382,661.61,Joseph,jillsmith@johnson.biz,Dominica,1/31/2024,2024,132.322
+PROD5383,Wall,Books,199.26,ORD20383,CUST1383,893.37,Christopher,cody82@gmail.com,Ghana,5/31/2023,2023,178.674
+PROD5384,Sit,Clothing,50.49,ORD20384,CUST1384,771.13,Nicholas,ifreeman@wilson.net,Qatar,1/31/2024,2024,154.226
+PROD5385,Bed,Clothing,253.02,ORD20385,CUST1385,1227.99,Amy,eric56@yahoo.com,Uzbekistan,3/31/2023,2023,245.598
+PROD5386,Campaign,Electronics,186.12,ORD20386,CUST1386,525.86,Mark,fstout@hamilton.com,Malawi,5/31/2023,2023,105.172
+PROD5387,Language,Beauty,181.69,ORD20387,CUST1387,274.22,Emily,dianebowers@mitchell-mcpherson.com,Norway,12/31/2024,2024,54.844
+PROD5388,Impact,Books,188.66,ORD20388,CUST1388,187.21,Crystal,travisrussell@harrison.com,Oman,4/30/2023,2023,37.442
+PROD5389,Expect,Home & Kitchen,281.83,ORD20389,CUST1389,1215.65,Nicholas,crawfordnatalie@charles.com,Isle of Man,6/30/2023,2023,243.13
+PROD5390,Team,Home & Kitchen,260.68,ORD20390,CUST1390,946.22,Crystal,gwilliams@stevenson-smith.org,Madagascar,4/30/2024,2024,189.244
+PROD5391,Sort,Toys,380.9,ORD20391,CUST1391,933.99,Jacob,cassandranichols@johnson.org,Turkey,3/31/2023,2023,186.798
+PROD5392,Time,Electronics,306.63,ORD20392,CUST1392,1084.44,Melissa,browningrita@thomas.biz,Svalbard & Jan Mayen Islands,3/31/2023,2023,216.888
+PROD5393,Feel,Books,354.32,ORD20393,CUST1393,300.3,Andrea,andrea06@nelson.net,Aruba,4/30/2024,2024,60.06
+PROD5394,However,Books,33.29,ORD20394,CUST1394,133.47,Ernest,sgordon@parker.com,Cayman Islands,3/31/2023,2023,26.694
+PROD5395,Environmental,Home & Kitchen,80.52,ORD20395,CUST1395,130.38,Andrea,vegaangela@jones.com,Comoros,4/30/2024,2024,26.076
+PROD5396,Offer,Beauty,169.23,ORD20396,CUST1396,514.26,Maxwell,floresderek@hayes-torres.com,Bouvet Island (Bouvetoya),9/30/2023,2023,102.852
+PROD5397,Federal,Books,256.26,ORD20397,CUST1397,649.74,Nicole,randylucas@harris.biz,Gabon,2/29/2024,2024,129.948
+PROD5398,Us,Books,496.58,ORD20398,CUST1398,23.3,Brandon,seanjones@johnson.com,French Guiana,5/31/2024,2024,4.66
+PROD5399,Their,Beauty,183.21,ORD20399,CUST1399,1156.19,Steven,chrisjohnson@hotmail.com,Japan,12/31/2024,2024,231.238
+PROD5400,General,Toys,79.72,ORD20400,CUST1400,522.14,Ashley,myersleslie@yahoo.com,Botswana,6/30/2024,2024,104.428
+PROD5401,Total,Toys,142.18,ORD20401,CUST1401,178.08,Chad,berrymark@king.com,Saint Pierre and Miquelon,9/30/2023,2023,35.616
+PROD5402,Fact,Toys,137.32,ORD20402,CUST1402,1005.37,Brandon,vwood@hotmail.com,Cambodia,8/31/2024,2024,201.074
+PROD5403,Value,Electronics,40.07,ORD20403,CUST1403,102.36,Daniel,sharpjacqueline@hotmail.com,Antigua and Barbuda,9/30/2023,2023,20.472
+PROD5404,How,Electronics,272.24,ORD20404,CUST1404,985.13,Stephanie,cramirez@hotmail.com,Holy See (Vatican City State),1/31/2025,2025,197.026
+PROD5405,Statement,Home & Kitchen,165.12,ORD20405,CUST1405,958.4,Hunter,nataliemartin@christian.com,Saudi Arabia,2/28/2023,2023,191.68
+PROD5406,Increase,Clothing,153.51,ORD20406,CUST1406,1299.23,Ronald,jonathan07@smith-roberts.biz,Guinea-Bissau,4/30/2024,2024,259.846
+PROD5407,Threat,Toys,447.21,ORD20407,CUST1407,1372.49,Laura,ruth66@gmail.com,Azerbaijan,2/29/2024,2024,274.498
+PROD5408,Necessary,Beauty,333.48,ORD20408,CUST1408,1452.91,Timothy,carrieroberson@lee-carson.com,Korea,10/31/2024,2024,290.582
+PROD5409,Eye,Beauty,39.45,ORD20409,CUST1409,160.73,Erin,jon06@hotmail.com,Saint Lucia,1/31/2025,2025,32.146
+PROD5410,Dream,Electronics,464.59,ORD20410,CUST1410,1185.64,Travis,mariobyrd@yahoo.com,Guinea,10/31/2023,2023,237.128
+PROD5411,Able,Toys,141.05,ORD20411,CUST1411,589.95,Gary,zachary32@hotmail.com,United States of America,1/31/2024,2024,117.99
+PROD5412,Listen,Books,194.6,ORD20412,CUST1412,285.47,Rebecca,johnwhite@hotmail.com,Morocco,7/31/2024,2024,57.094
+PROD5413,Sense,Books,62.54,ORD20413,CUST1413,1324.39,Angela,gcontreras@gmail.com,Mauritania,1/31/2025,2025,264.878
+PROD5414,Good,Clothing,114.77,ORD20414,CUST1414,1207.77,Matthew,reyesgary@gmail.com,Nauru,8/31/2024,2024,241.554
+PROD5415,Senior,Clothing,67.53,ORD20415,CUST1415,1028.62,Kevin,mirandasamuel@yahoo.com,United Kingdom,11/30/2024,2024,205.724
+PROD5416,Popular,Beauty,209.39,ORD20416,CUST1416,68.59,Jennifer,johnsoncheryl@singh.com,Azerbaijan,2/29/2024,2024,13.718
+PROD5417,Actually,Beauty,308.94,ORD20417,CUST1417,1105.54,Alice,molly08@yahoo.com,Libyan Arab Jamahiriya,12/31/2024,2024,221.108
+PROD5418,Sing,Toys,342.22,ORD20418,CUST1418,1423.09,Thomas,wallen@beck.com,Timor-Leste,7/31/2024,2024,284.618
+PROD5419,Issue,Electronics,340.43,ORD20419,CUST1419,530.41,Stephen,howelljustin@fox.com,Cuba,7/31/2024,2024,106.082
+PROD5420,Enter,Electronics,163.09,ORD20420,CUST1420,991.49,John,msantana@gmail.com,Denmark,11/30/2023,2023,198.298
+PROD5421,Want,Clothing,382.12,ORD20421,CUST1421,793.73,Jeremy,angelabrown@hutchinson.info,Russian Federation,3/31/2023,2023,158.746
+PROD5422,Finally,Toys,398.61,ORD20422,CUST1422,183.75,Nancy,sarah82@yahoo.com,Niue,2/29/2024,2024,36.75
+PROD5423,East,Beauty,207.74,ORD20423,CUST1423,749.67,Sandra,woodarddawn@jones-patton.com,Grenada,7/31/2023,2023,149.934
+PROD5424,Herself,Toys,466.83,ORD20424,CUST1424,1250.41,James,jonesjessica@cole.info,Egypt,9/30/2024,2024,250.082
+PROD5425,Fine,Toys,279.35,ORD20425,CUST1425,1143.24,Danielle,palmergregory@hotmail.com,Brunei Darussalam,9/30/2023,2023,228.648
+PROD5426,Surface,Home & Kitchen,317.75,ORD20426,CUST1426,794.45,Kathy,barnettregina@hotmail.com,Germany,10/31/2024,2024,158.89
+PROD5427,Artist,Toys,254.68,ORD20427,CUST1427,1109.93,Mike,hallharold@hotmail.com,United States Virgin Islands,3/31/2024,2024,221.986
+PROD5428,The,Beauty,150.03,ORD20428,CUST1428,1017.93,Vincent,marie39@gmail.com,Egypt,2/29/2024,2024,203.586
+PROD5429,Tough,Clothing,154.68,ORD20429,CUST1429,543.19,Stacy,randy14@yahoo.com,Guyana,4/30/2024,2024,108.638
+PROD5430,Development,Books,460.86,ORD20430,CUST1430,585,Allison,sgonzalez@martinez.info,Jordan,3/31/2024,2024,117
+PROD5431,Leader,Clothing,9.13,ORD20431,CUST1431,620.32,Joanne,osmith@johnson.com,Guyana,2/29/2024,2024,124.064
+PROD5432,Through,Electronics,96.64,ORD20432,CUST1432,1358.38,Nancy,lisa81@yahoo.com,Bahamas,7/31/2024,2024,271.676
+PROD5433,Decision,Electronics,382.57,ORD20433,CUST1433,313.95,Jesse,ohudson@gmail.com,Georgia,2/28/2023,2023,62.79
+PROD5434,Meet,Beauty,209.28,ORD20434,CUST1434,541.27,Brittany,jaredjensen@hotmail.com,Austria,5/31/2024,2024,108.254
+PROD5435,Spring,Electronics,285.97,ORD20435,CUST1435,610.66,David,kingkaren@yahoo.com,Jordan,1/31/2024,2024,122.132
+PROD5436,Anything,Toys,467.54,ORD20436,CUST1436,1166.19,Brooke,sydney72@haynes.com,Martinique,10/31/2024,2024,233.238
+PROD5437,Imagine,Toys,367.66,ORD20437,CUST1437,1400.09,Melanie,tracy09@hotmail.com,Ecuador,12/31/2024,2024,280.018
+PROD5438,Itself,Clothing,474.56,ORD20438,CUST1438,1427.51,Jeff,zhansen@yahoo.com,Albania,7/31/2024,2024,285.502
+PROD5439,Me,Home & Kitchen,215.26,ORD20439,CUST1439,1167.63,Christina,jeremy54@maldonado.com,Malta,3/31/2023,2023,233.526
+PROD5440,Process,Home & Kitchen,486.75,ORD20440,CUST1440,930.36,Maria,jessicawest@gmail.com,Honduras,12/31/2024,2024,186.072
+PROD5441,Clear,Books,346.06,ORD20441,CUST1441,1186.46,Stephen,nicholas16@powell.biz,Luxembourg,12/31/2024,2024,237.292
+PROD5442,Identify,Beauty,115.39,ORD20442,CUST1442,457.04,Nicole,marquezcatherine@moreno.info,Thailand,9/30/2024,2024,91.408
+PROD5443,Ball,Home & Kitchen,49.75,ORD20443,CUST1443,1075.15,Andrea,awheeler@ward-powell.com,Italy,10/31/2023,2023,215.03
+PROD5444,Him,Toys,267.58,ORD20444,CUST1444,930.5,Judith,tjohnson@yahoo.com,Qatar,12/31/2023,2023,186.1
+PROD5445,Along,Electronics,21.48,ORD20445,CUST1445,1392.79,Lisa,edward46@reyes-bryant.biz,United Arab Emirates,7/31/2024,2024,278.558
+PROD5446,Mr,Electronics,65.97,ORD20446,CUST1446,1026.31,Cole,jonesanita@moreno-yoder.com,Saint Kitts and Nevis,2/29/2024,2024,205.262
+PROD5447,Husband,Beauty,217.82,ORD20447,CUST1447,1411.18,Cynthia,moonnoah@yahoo.com,Nigeria,7/31/2024,2024,282.236
+PROD5448,Ever,Beauty,19.71,ORD20448,CUST1448,248.86,Caitlin,sara11@hardy.org,San Marino,11/30/2023,2023,49.772
+PROD5449,Gas,Electronics,365.36,ORD20449,CUST1449,1165.51,Bridget,cameronmeyers@flowers.com,Mali,2/28/2023,2023,233.102
+PROD5450,Office,Clothing,481.33,ORD20450,CUST1450,1486.2,Sara,quinnvirginia@hotmail.com,Bosnia and Herzegovina,12/31/2024,2024,297.24
+PROD5451,Foot,Home & Kitchen,49.84,ORD20451,CUST1451,294.66,Steven,thomasbryant@knox-johnson.com,Nauru,8/31/2024,2024,58.932
+PROD5452,Think,Home & Kitchen,419.57,ORD20452,CUST1452,1025.41,Todd,james16@yahoo.com,Equatorial Guinea,2/29/2024,2024,205.082
+PROD5453,Must,Beauty,17.21,ORD20453,CUST1453,452.54,Jennifer,lroberts@johnson-higgins.biz,Namibia,3/31/2024,2024,90.508
+PROD5454,North,Clothing,300.81,ORD20454,CUST1454,1188.01,Kevin,tracysmith@hotmail.com,Algeria,12/31/2024,2024,237.602
+PROD5455,Treat,Clothing,333.18,ORD20455,CUST1455,1172.54,Sarah,benjamin66@jackson-reynolds.com,Saint Pierre and Miquelon,11/30/2024,2024,234.508
+PROD5456,Million,Clothing,349.16,ORD20456,CUST1456,826.43,Carolyn,kristymercado@ortega-rogers.net,Albania,1/31/2024,2024,165.286
+PROD5457,Write,Books,83.41,ORD20457,CUST1457,858.28,Krystal,ramirezthomas@hotmail.com,Montserrat,3/31/2024,2024,171.656
+PROD5458,Pull,Beauty,176.49,ORD20458,CUST1458,35.27,Melanie,raymondgarcia@yahoo.com,Switzerland,10/31/2024,2024,7.054
+PROD5459,Wish,Toys,143.39,ORD20459,CUST1459,1263.51,Jamie,chudson@waters-smith.com,Philippines,9/30/2023,2023,252.702
+PROD5460,Small,Beauty,156.4,ORD20460,CUST1460,1025.48,Debra,mmorris@hotmail.com,Pakistan,7/31/2023,2023,205.096
+PROD5461,Pay,Beauty,477.16,ORD20461,CUST1461,368.09,Cory,timothy51@hotmail.com,Puerto Rico,2/29/2024,2024,73.618
+PROD5462,Generation,Home & Kitchen,463,ORD20462,CUST1462,260.08,David,lindafernandez@gmail.com,Comoros,5/31/2024,2024,52.016
+PROD5463,Them,Electronics,370.88,ORD20463,CUST1463,1259.32,Donald,mauricewhite@anderson.com,Tokelau,2/28/2025,2025,251.864
+PROD5464,Staff,Electronics,435.16,ORD20464,CUST1464,1302.24,Micheal,joseph67@nixon.net,Fiji,5/31/2023,2023,260.448
+PROD5465,Act,Beauty,257.04,ORD20465,CUST1465,321.15,Blake,christopherdavis@thompson-griffin.com,Djibouti,2/28/2023,2023,64.23
+PROD5466,Catch,Home & Kitchen,374.45,ORD20466,CUST1466,991.2,Sarah,marcus72@miller-keith.net,Tonga,9/30/2024,2024,198.24
+PROD5467,Guess,Clothing,217.61,ORD20467,CUST1467,555.15,Kelly,dunnjoseph@gmail.com,Maldives,10/31/2023,2023,111.03
+PROD5468,Chair,Books,81.99,ORD20468,CUST1468,191.92,Ashley,aliciagordon@boyd.com,Kyrgyz Republic,9/30/2024,2024,38.384
+PROD5469,Another,Home & Kitchen,210.18,ORD20469,CUST1469,859.28,Lori,suarezjessica@henderson-thompson.biz,Monaco,5/31/2023,2023,171.856
+PROD5470,Cover,Toys,320.81,ORD20470,CUST1470,69.51,Jesus,mcgrathcourtney@hotmail.com,Malta,12/31/2024,2024,13.902
+PROD5471,Term,Books,494.09,ORD20471,CUST1471,842.4,Linda,rhampton@perry-mitchell.com,Qatar,9/30/2024,2024,168.48
+PROD5472,Continue,Clothing,368.06,ORD20472,CUST1472,178.11,Donna,darrylshaw@hotmail.com,Sri Lanka,7/31/2023,2023,35.622
+PROD5473,Seven,Beauty,267.19,ORD20473,CUST1473,510.8,Robert,erikawilson@patel.com,Philippines,8/31/2023,2023,102.16
+PROD5474,Of,Beauty,301.27,ORD20474,CUST1474,909.57,Tanner,richard13@yahoo.com,Niue,2/29/2024,2024,181.914
+PROD5475,Reason,Toys,448.48,ORD20475,CUST1475,1415.9,Nancy,andre04@yahoo.com,Seychelles,12/31/2023,2023,283.18
+PROD5476,Knowledge,Electronics,474.48,ORD20476,CUST1476,1203.76,Michelle,vcarpenter@gmail.com,Costa Rica,7/31/2024,2024,240.752
+PROD5477,People,Toys,17.82,ORD20477,CUST1477,690.89,Mary,pattersonamber@yahoo.com,Sao Tome and Principe,8/31/2024,2024,138.178
+PROD5478,Writer,Toys,57.16,ORD20478,CUST1478,25.88,James,jareddiaz@hotmail.com,Costa Rica,5/31/2023,2023,5.176
+PROD5479,Will,Home & Kitchen,107.48,ORD20479,CUST1479,367.18,Scott,efreeman@olson-rivera.com,French Guiana,6/30/2024,2024,73.436
+PROD5480,Present,Electronics,258.9,ORD20480,CUST1480,1472.12,Karla,thomas62@harris.info,Turkmenistan,12/31/2023,2023,294.424
+PROD5481,Organization,Clothing,66.62,ORD20481,CUST1481,329.98,Christine,jordanfreeman@arnold.info,Mongolia,3/31/2024,2024,65.996
+PROD5482,Ask,Beauty,108.99,ORD20482,CUST1482,1430.83,Ruben,jamesnelson@gmail.com,Denmark,10/31/2024,2024,286.166
+PROD5483,Who,Electronics,9.81,ORD20483,CUST1483,721.87,Shannon,jennifer61@escobar-sims.com,Estonia,9/30/2024,2024,144.374
+PROD5484,Coach,Beauty,408.37,ORD20484,CUST1484,998.51,Eric,royjim@guzman.com,Svalbard & Jan Mayen Islands,11/30/2024,2024,199.702
+PROD5485,What,Toys,106.13,ORD20485,CUST1485,1224.51,Russell,kennethsullivan@wood.info,Bahrain,7/31/2023,2023,244.902
+PROD5486,Try,Beauty,423.18,ORD20486,CUST1486,38.96,Matthew,joereed@hotmail.com,Bhutan,9/30/2024,2024,7.792
+PROD5487,Officer,Books,152.38,ORD20487,CUST1487,241.58,Luis,ecastro@jenkins.com,Belgium,5/31/2024,2024,48.316
+PROD5488,Worry,Clothing,471.54,ORD20488,CUST1488,399.96,Scott,lauraharper@williams.com,India,7/31/2024,2024,79.992
+PROD5489,Visit,Home & Kitchen,133.55,ORD20489,CUST1489,73.99,Janice,julie23@yahoo.com,Cuba,7/31/2023,2023,14.798
+PROD5490,Risk,Clothing,339.47,ORD20490,CUST1490,1328.66,Diana,fosterhayden@yahoo.com,Estonia,12/31/2024,2024,265.732
+PROD5491,Staff,Home & Kitchen,140.28,ORD20491,CUST1491,134.73,Nicholas,dschmidt@harris.org,Cyprus,9/30/2023,2023,26.946
+PROD5492,Church,Books,398.61,ORD20492,CUST1492,805.88,Sarah,jchang@gmail.com,Saint Vincent and the Grenadines,1/31/2025,2025,161.176
+PROD5493,Build,Home & Kitchen,173.18,ORD20493,CUST1493,1460.31,Michael,kelleymitchell@hotmail.com,Ireland,11/30/2024,2024,292.062
+PROD5494,By,Toys,476.92,ORD20494,CUST1494,70.65,Alexandra,kingteresa@diaz-ryan.com,Niger,1/31/2024,2024,14.13
+PROD5495,Work,Clothing,97.98,ORD20495,CUST1495,462.97,Jessica,ywallace@yahoo.com,Tanzania,12/31/2023,2023,92.594
+PROD5496,Artist,Clothing,10.22,ORD20496,CUST1496,1338.05,Jessica,mitchellvasquez@frost.com,Fiji,7/31/2024,2024,267.61
+PROD5497,Real,Toys,259.15,ORD20497,CUST1497,921.11,Denise,ian23@gmail.com,Samoa,10/31/2024,2024,184.222
+PROD5498,Century,Books,32.5,ORD20498,CUST1498,1034.96,Jasmin,dylanfuentes@yahoo.com,Nigeria,6/30/2024,2024,206.992
+PROD5499,Get,Electronics,350.12,ORD20499,CUST1499,916.8,Matthew,andrewolson@hotmail.com,Togo,11/30/2024,2024,183.36
+PROD5500,Never,Beauty,408.6,ORD20500,CUST1500,1279.55,Amber,sgallegos@hotmail.com,Dominica,12/31/2024,2024,255.91
+PROD5501,Understand,Toys,148,ORD20501,CUST1501,1222.32,Debra,stephengriffin@gmail.com,Bahrain,10/31/2024,2024,244.464
+PROD5502,Read,Home & Kitchen,319.82,ORD20502,CUST1502,634.24,Matthew,wilsoneric@reese.com,Turkmenistan,5/31/2023,2023,126.848
+PROD5503,Campaign,Home & Kitchen,15.18,ORD20503,CUST1503,799.79,George,oburton@mullins-brown.org,Syrian Arab Republic,4/30/2024,2024,159.958
+PROD5504,How,Toys,353.65,ORD20504,CUST1504,1288.07,James,rmccullough@hotmail.com,Ukraine,10/31/2023,2023,257.614
+PROD5505,Push,Beauty,112.56,ORD20505,CUST1505,204.91,Belinda,torreskaren@villanueva.com,Djibouti,8/31/2024,2024,40.982
+PROD5506,Else,Beauty,187.91,ORD20506,CUST1506,1071.36,Olivia,cobbdonna@robinson-sanders.biz,India,9/30/2023,2023,214.272
+PROD5507,Fight,Beauty,29.97,ORD20507,CUST1507,1045.79,Kenneth,thomas87@johnson.com,Singapore,7/31/2023,2023,209.158
+PROD5508,Up,Electronics,101.51,ORD20508,CUST1508,1147.63,Alison,danielle69@hotmail.com,Portugal,7/31/2023,2023,229.526
+PROD5509,Onto,Electronics,165.37,ORD20509,CUST1509,610.2,Elizabeth,kirkwolf@hotmail.com,Cayman Islands,1/31/2024,2024,122.04
+PROD5510,Like,Books,415.03,ORD20510,CUST1510,1350.87,Paul,michellechandler@yahoo.com,France,2/28/2025,2025,270.174
+PROD5511,Me,Clothing,90.38,ORD20511,CUST1511,139.12,Stephanie,todd15@gonzalez-johnson.com,British Indian Ocean Territory (Chagos Archipelago),12/31/2023,2023,27.824
+PROD5512,Become,Beauty,296.13,ORD20512,CUST1512,973.07,Darren,ramirezmatthew@alvarado-grant.com,Svalbard & Jan Mayen Islands,6/30/2024,2024,194.614
+PROD5513,Early,Beauty,274.31,ORD20513,CUST1513,1097.88,James,matthewcastillo@powell.com,French Guiana,7/31/2023,2023,219.576
+PROD5514,You,Clothing,131.67,ORD20514,CUST1514,1382.93,Tracy,ierickson@hotmail.com,Niger,6/30/2024,2024,276.586
+PROD5515,Unit,Beauty,283.68,ORD20515,CUST1515,717.32,Ian,williamswilliam@lewis.com,Saint Pierre and Miquelon,10/31/2023,2023,143.464
+PROD5516,You,Books,277.3,ORD20516,CUST1516,877.32,Justin,johnlewis@lane.net,Kiribati,9/30/2024,2024,175.464
+PROD5517,Man,Books,236.47,ORD20517,CUST1517,1372.6,John,james12@elliott.com,Papua New Guinea,6/30/2023,2023,274.52
+PROD5518,Tough,Toys,41.26,ORD20518,CUST1518,693.79,John,casetroy@gray.net,Tonga,6/30/2023,2023,138.758
+PROD5519,Series,Books,193.09,ORD20519,CUST1519,168.51,Laura,williamscarol@frye.net,Lithuania,2/28/2023,2023,33.702
+PROD5520,Buy,Electronics,325.06,ORD20520,CUST1520,35.7,Roger,tanderson@villarreal.com,Lebanon,7/31/2023,2023,7.14
+PROD5521,Somebody,Books,353.35,ORD20521,CUST1521,991.65,Selena,timothyowen@hart-johnson.com,Zambia,7/31/2023,2023,198.33
+PROD5522,Technology,Clothing,27.91,ORD20522,CUST1522,1394.47,Shane,kathleenlarson@gmail.com,American Samoa,5/31/2023,2023,278.894
+PROD5523,Rest,Books,302.26,ORD20523,CUST1523,1288.26,Ricky,kjones@mitchell.com,Turkmenistan,11/30/2023,2023,257.652
+PROD5524,Responsibility,Beauty,425.82,ORD20524,CUST1524,1036.68,Leslie,dmata@hotmail.com,India,1/31/2025,2025,207.336
+PROD5525,While,Books,211.4,ORD20525,CUST1525,182.01,Justin,jonathan69@hotmail.com,Venezuela,6/30/2024,2024,36.402
+PROD5526,Father,Electronics,70.66,ORD20526,CUST1526,474.29,Mario,emoss@wright.com,Reunion,2/28/2023,2023,94.858
+PROD5527,Couple,Home & Kitchen,206.11,ORD20527,CUST1527,40.56,Bryan,tara45@owen.com,Rwanda,4/30/2023,2023,8.112
+PROD5528,Read,Books,472.31,ORD20528,CUST1528,1065.01,Austin,james24@graham.com,Turks and Caicos Islands,4/30/2024,2024,213.002
+PROD5529,Job,Home & Kitchen,394.14,ORD20529,CUST1529,243.84,Jennifer,melissaadams@yahoo.com,Czech Republic,8/31/2023,2023,48.768
+PROD5530,Option,Toys,36.3,ORD20530,CUST1530,437.82,Paul,daniel14@campbell.org,Saudi Arabia,10/31/2024,2024,87.564
+PROD5531,Tv,Toys,477.71,ORD20531,CUST1531,516.53,Spencer,deleonarthur@yahoo.com,Martinique,4/30/2023,2023,103.306
+PROD5532,Scientist,Books,42.79,ORD20532,CUST1532,452.81,Shane,evansaustin@yahoo.com,Faroe Islands,7/31/2024,2024,90.562
+PROD5533,Stage,Books,393.98,ORD20533,CUST1533,711.55,Michele,mary71@gmail.com,Svalbard & Jan Mayen Islands,3/31/2024,2024,142.31
+PROD5534,Especially,Beauty,240.46,ORD20534,CUST1534,278.32,Dale,hharris@hotmail.com,Mongolia,7/31/2023,2023,55.664
+PROD5535,Million,Books,137.89,ORD20535,CUST1535,1248.02,Wanda,vdixon@harris.com,Cyprus,7/31/2023,2023,249.604
+PROD5536,Blood,Beauty,297.33,ORD20536,CUST1536,597.77,Savannah,danny29@hotmail.com,Syrian Arab Republic,10/31/2023,2023,119.554
+PROD5537,Industry,Books,239.41,ORD20537,CUST1537,1121.27,Jesse,andersonlynn@soto.biz,Congo,9/30/2023,2023,224.254
+PROD5538,Employee,Books,441.84,ORD20538,CUST1538,303.66,Nicole,chungtina@hotmail.com,Angola,10/31/2023,2023,60.732
+PROD5539,Down,Toys,407.29,ORD20539,CUST1539,266.56,Linda,amybarnes@king-barker.net,Timor-Leste,3/31/2023,2023,53.312
+PROD5540,Painting,Beauty,230.49,ORD20540,CUST1540,698.97,Anthony,michaelcollier@herring.biz,Greenland,10/31/2024,2024,139.794
+PROD5541,Discuss,Home & Kitchen,62.88,ORD20541,CUST1541,962.32,Alisha,tyler81@duran.biz,Bosnia and Herzegovina,4/30/2023,2023,192.464
+PROD5542,Fear,Electronics,128.82,ORD20542,CUST1542,637.08,Cynthia,jennifer39@yahoo.com,Antarctica (the territory South of 60 deg S),6/30/2024,2024,127.416
+PROD5543,Through,Electronics,126.79,ORD20543,CUST1543,1027.03,Oscar,vazquezchristopher@clark-wells.com,Norway,7/31/2023,2023,205.406
+PROD5544,Feel,Clothing,483.52,ORD20544,CUST1544,785.51,Christina,rachel59@rios.com,Trinidad and Tobago,6/30/2023,2023,157.102
+PROD5545,Rule,Electronics,180.32,ORD20545,CUST1545,421.58,Lauren,christinaholland@miller.com,Tuvalu,11/30/2024,2024,84.316
+PROD5546,South,Toys,331.17,ORD20546,CUST1546,1131.1,Christopher,hooperolivia@jones.net,Costa Rica,11/30/2024,2024,226.22
+PROD5547,Air,Beauty,22.34,ORD20547,CUST1547,979.67,Angela,browngeorge@yahoo.com,Liechtenstein,5/31/2024,2024,195.934
+PROD5548,Leader,Books,498.26,ORD20548,CUST1548,350.41,Brent,aprilesparza@gmail.com,Lao People's Democratic Republic,6/30/2023,2023,70.082
+PROD5549,Mean,Books,458.13,ORD20549,CUST1549,1346.42,Douglas,gregoryhenry@yahoo.com,Turks and Caicos Islands,3/31/2024,2024,269.284
+PROD5550,Strategy,Beauty,473.72,ORD20550,CUST1550,197.35,Andrea,susan36@franklin.com,Solomon Islands,6/30/2024,2024,39.47
+PROD5551,Unit,Books,123.87,ORD20551,CUST1551,1020.28,Stephen,kgraham@dominguez.org,Mauritius,11/30/2024,2024,204.056
+PROD5552,Laugh,Clothing,320.92,ORD20552,CUST1552,1029.12,Sandra,cynthia32@gates.net,Ghana,11/30/2023,2023,205.824
+PROD5553,Read,Home & Kitchen,169.43,ORD20553,CUST1553,462.34,Jennifer,ellisoncrystal@hotmail.com,Nepal,10/31/2024,2024,92.468
+PROD5554,Successful,Home & Kitchen,43.6,ORD20554,CUST1554,125.6,April,mario53@day.com,Greece,8/31/2024,2024,25.12
+PROD5555,Seven,Home & Kitchen,59.5,ORD20555,CUST1555,178.9,Scott,wyoung@yahoo.com,United States Virgin Islands,10/31/2023,2023,35.78
+PROD5556,Up,Beauty,120.19,ORD20556,CUST1556,361.06,Richard,rgutierrez@yahoo.com,Gambia,1/31/2025,2025,72.212
+PROD5557,These,Electronics,77.2,ORD20557,CUST1557,1034.98,Shelley,thomasgeorge@mathews.org,Bahrain,11/30/2024,2024,206.996
+PROD5558,Small,Home & Kitchen,429.94,ORD20558,CUST1558,344.05,Nicole,brownamanda@yahoo.com,Ireland,10/31/2023,2023,68.81
+PROD5559,Sing,Books,222.56,ORD20559,CUST1559,246.99,Caitlyn,tuckerjennifer@hotmail.com,Kuwait,4/30/2024,2024,49.398
+PROD5560,International,Books,182.71,ORD20560,CUST1560,755.41,Deborah,dscott@gmail.com,Sudan,5/31/2023,2023,151.082
+PROD5561,Watch,Electronics,148.95,ORD20561,CUST1561,706.73,Amber,patrickdavid@gmail.com,Montenegro,12/31/2024,2024,141.346
+PROD5562,Get,Clothing,68.15,ORD20562,CUST1562,66.27,Tiffany,nicholas87@gmail.com,Canada,3/31/2024,2024,13.254
+PROD5563,Exactly,Beauty,315,ORD20563,CUST1563,150.1,Timothy,karendawson@gmail.com,Zimbabwe,11/30/2024,2024,30.02
+PROD5564,Act,Beauty,268.4,ORD20564,CUST1564,559.96,Sean,david22@yahoo.com,Congo,2/29/2024,2024,111.992
+PROD5565,The,Clothing,87.32,ORD20565,CUST1565,780.55,Robert,mariajohnson@gmail.com,Brazil,2/28/2025,2025,156.11
+PROD5566,Support,Electronics,99.43,ORD20566,CUST1566,1427.72,William,glennrichardson@yahoo.com,Argentina,11/30/2024,2024,285.544
+PROD5567,Keep,Toys,271.09,ORD20567,CUST1567,973.43,Latoya,dharris@orozco-martinez.com,Colombia,3/31/2023,2023,194.686
+PROD5568,Hotel,Electronics,22.83,ORD20568,CUST1568,612.36,Richard,jjohnson@yahoo.com,Senegal,1/31/2024,2024,122.472
+PROD5569,Prevent,Beauty,423.01,ORD20569,CUST1569,987.62,Justin,amanda90@waller-nicholson.info,Yemen,12/31/2023,2023,197.524
+PROD5570,Onto,Clothing,352.04,ORD20570,CUST1570,820.89,Sara,jared82@moran-thomas.com,Mexico,3/31/2024,2024,164.178
+PROD5571,Charge,Books,10.75,ORD20571,CUST1571,309.09,Samantha,phuffman@yahoo.com,Saint Martin,2/28/2023,2023,61.818
+PROD5572,Project,Toys,106.84,ORD20572,CUST1572,1493.62,Elizabeth,nrosales@williams.com,Ukraine,10/31/2024,2024,298.724
+PROD5573,Exist,Books,431.43,ORD20573,CUST1573,796.04,Tom,kayla39@chan-bell.org,Norfolk Island,11/30/2024,2024,159.208
+PROD5574,Message,Clothing,444.8,ORD20574,CUST1574,871.75,Shawn,rmorgan@gmail.com,Palestinian Territory,10/31/2024,2024,174.35
+PROD5575,Fire,Home & Kitchen,21.19,ORD20575,CUST1575,126.55,Jessica,tbullock@fisher.com,Belarus,8/31/2024,2024,25.31
+PROD5576,Physical,Electronics,104.73,ORD20576,CUST1576,617.78,Jennifer,lisa46@johnson.biz,South Georgia and the South Sandwich Islands,1/31/2025,2025,123.556
+PROD5577,Ahead,Electronics,262.7,ORD20577,CUST1577,866.51,Jeffery,walshmia@yahoo.com,Palestinian Territory,6/30/2023,2023,173.302
+PROD5578,General,Clothing,23.56,ORD20578,CUST1578,302.18,Rebecca,hjones@hotmail.com,Norfolk Island,7/31/2024,2024,60.436
+PROD5579,Middle,Beauty,252.04,ORD20579,CUST1579,1342.06,Thomas,jordan99@martinez.biz,Nigeria,4/30/2023,2023,268.412
+PROD5580,On,Toys,38.44,ORD20580,CUST1580,932.28,Natalie,linda93@gonzales.com,Switzerland,4/30/2023,2023,186.456
+PROD5581,Need,Books,281.23,ORD20581,CUST1581,464.13,Jennifer,hillronnie@hotmail.com,Cuba,2/29/2024,2024,92.826
+PROD5582,Risk,Books,207.89,ORD20582,CUST1582,501.7,Amanda,owalker@yahoo.com,Myanmar,10/31/2023,2023,100.34
+PROD5583,Point,Clothing,351.58,ORD20583,CUST1583,1073.81,Peggy,hallcarol@fuller.com,Niger,7/31/2023,2023,214.762
+PROD5584,Purpose,Toys,188.47,ORD20584,CUST1584,1457.47,Richard,ibenson@gmail.com,Antarctica (the territory South of 60 deg S),6/30/2023,2023,291.494
+PROD5585,Hospital,Home & Kitchen,176.65,ORD20585,CUST1585,1055.49,Arthur,tlopez@davis.com,Mexico,12/31/2024,2024,211.098
+PROD5586,Sense,Books,35.76,ORD20586,CUST1586,479,Elizabeth,gonzalesshane@bell.com,Comoros,11/30/2023,2023,95.8
+PROD5587,Condition,Clothing,49.53,ORD20587,CUST1587,330.82,Megan,rachel62@hotmail.com,Samoa,3/31/2024,2024,66.164
+PROD5588,Hotel,Electronics,22.16,ORD20588,CUST1588,1271,Amanda,ospencer@hotmail.com,Niger,5/31/2024,2024,254.2
+PROD5589,Boy,Clothing,423.48,ORD20589,CUST1589,435.87,Aaron,oliviacraig@mccarthy.org,Malta,8/31/2023,2023,87.174
+PROD5590,Fly,Home & Kitchen,381.83,ORD20590,CUST1590,309.28,Caleb,david95@price.com,Peru,3/31/2024,2024,61.856
+PROD5591,Page,Clothing,188.95,ORD20591,CUST1591,964.33,Eric,joshuaanderson@hotmail.com,Iceland,3/31/2024,2024,192.866
+PROD5592,Once,Home & Kitchen,61.46,ORD20592,CUST1592,318.24,Matthew,williamsjoshua@manning-harrell.net,Norfolk Island,1/31/2025,2025,63.648
+PROD5593,Carry,Toys,332.65,ORD20593,CUST1593,991.43,Christina,sarahgraham@york.com,Korea,1/31/2024,2024,198.286
+PROD5594,Like,Books,204.22,ORD20594,CUST1594,970.12,Carol,petersensharon@hudson.biz,India,9/30/2024,2024,194.024
+PROD5595,American,Toys,433.81,ORD20595,CUST1595,378.48,Jack,elizabeth68@yahoo.com,Congo,4/30/2024,2024,75.696
+PROD5596,Yourself,Beauty,165.22,ORD20596,CUST1596,1089.71,Joseph,jacob22@hotmail.com,Ethiopia,12/31/2023,2023,217.942
+PROD5597,Message,Beauty,406.82,ORD20597,CUST1597,122.83,Keith,robert81@allen.com,Martinique,7/31/2023,2023,24.566
+PROD5598,Very,Clothing,11.61,ORD20598,CUST1598,305.33,Robert,davidnelson@barron-stevenson.net,Libyan Arab Jamahiriya,10/31/2024,2024,61.066
+PROD5599,Listen,Books,456.98,ORD20599,CUST1599,745.38,Michelle,lholt@hotmail.com,Costa Rica,6/30/2024,2024,149.076
+PROD5600,Street,Toys,144.75,ORD20600,CUST1600,951.46,Kenneth,christopherleblanc@bryan.com,Chile,1/31/2024,2024,190.292
+PROD5601,Economic,Toys,382.16,ORD20601,CUST1601,1181.74,Rebecca,urichardson@hotmail.com,Bahrain,11/30/2023,2023,236.348
+PROD5602,Guess,Toys,438.92,ORD20602,CUST1602,789.62,Shannon,vrodriguez@figueroa-bruce.com,Afghanistan,2/28/2023,2023,157.924
+PROD5603,Again,Home & Kitchen,450.59,ORD20603,CUST1603,726.08,Joseph,jeffery48@king.net,Bolivia,7/31/2023,2023,145.216
+PROD5604,Table,Clothing,25.23,ORD20604,CUST1604,801.49,Natasha,nbenson@taylor-obrien.info,Botswana,11/30/2023,2023,160.298
+PROD5605,Past,Books,412.11,ORD20605,CUST1605,172.31,Kendra,walkerkaren@gmail.com,South Georgia and the South Sandwich Islands,2/28/2025,2025,34.462
+PROD5606,If,Electronics,92.59,ORD20606,CUST1606,976.05,Mary,sarahoconnor@mitchell.com,Mayotte,3/31/2023,2023,195.21
+PROD5607,Despite,Clothing,193.37,ORD20607,CUST1607,363.79,William,cbrennan@carter-barton.com,Bermuda,1/31/2024,2024,72.758
+PROD5608,Model,Beauty,125.07,ORD20608,CUST1608,407.94,Jennifer,eduardogarza@lin-lopez.com,Namibia,10/31/2024,2024,81.588
+PROD5609,Moment,Clothing,219.95,ORD20609,CUST1609,773.09,Meghan,cassiemosley@gmail.com,Guadeloupe,5/31/2024,2024,154.618
+PROD5610,Customer,Toys,482.77,ORD20610,CUST1610,780.85,Donald,kylehill@hotmail.com,Macao,9/30/2024,2024,156.17
+PROD5611,Direction,Beauty,232.39,ORD20611,CUST1611,27.69,Lori,jasonmiller@gmail.com,Heard Island and McDonald Islands,9/30/2023,2023,5.538
+PROD5612,Able,Clothing,67.44,ORD20612,CUST1612,138.45,Gregory,millerjennifer@mora.com,Mexico,10/31/2024,2024,27.69
+PROD5613,Board,Toys,458.9,ORD20613,CUST1613,843.13,Thomas,longdana@gmail.com,Jordan,8/31/2024,2024,168.626
+PROD5614,Economic,Beauty,24.54,ORD20614,CUST1614,496.46,Christopher,lglass@yahoo.com,Guadeloupe,10/31/2024,2024,99.292
+PROD5615,Feel,Beauty,305.05,ORD20615,CUST1615,93.54,Lisa,dwright@miller-west.com,Sudan,6/30/2024,2024,18.708
+PROD5616,News,Home & Kitchen,276.99,ORD20616,CUST1616,734.15,Terry,smithbrenda@yahoo.com,Guadeloupe,5/31/2023,2023,146.83
+PROD5617,Send,Beauty,34.83,ORD20617,CUST1617,245.36,Tina,qcaldwell@gmail.com,Isle of Man,12/31/2024,2024,49.072
+PROD5618,Position,Toys,52.11,ORD20618,CUST1618,419.81,Sarah,eduffy@yahoo.com,Guyana,10/31/2023,2023,83.962
+PROD5619,Show,Clothing,36.27,ORD20619,CUST1619,749.44,Mark,cooperalyssa@turner.com,Germany,4/30/2023,2023,149.888
+PROD5620,Player,Home & Kitchen,229.47,ORD20620,CUST1620,1498.13,Eric,helen27@floyd.com,Tuvalu,5/31/2024,2024,299.626
+PROD5621,Long,Home & Kitchen,447.1,ORD20621,CUST1621,474.77,Carlos,dwilliams@carrillo-blackburn.net,Pakistan,2/28/2023,2023,94.954
+PROD5622,Happen,Beauty,370.53,ORD20622,CUST1622,589.8,Jeffrey,sarah05@yahoo.com,Cape Verde,5/31/2024,2024,117.96
+PROD5623,Today,Home & Kitchen,137.85,ORD20623,CUST1623,360.37,Ryan,frankcox@hardin-watson.com,Uruguay,2/28/2023,2023,72.074
+PROD5624,Yeah,Clothing,233.13,ORD20624,CUST1624,1404.66,William,loganjonathan@hotmail.com,Mauritius,9/30/2023,2023,280.932
+PROD5625,Nothing,Clothing,234.86,ORD20625,CUST1625,1171.82,Lisa,bradyricky@wolfe.com,Chile,4/30/2023,2023,234.364
+PROD5626,Help,Books,84.77,ORD20626,CUST1626,1049.25,Richard,dana08@yahoo.com,Mexico,11/30/2024,2024,209.85
+PROD5627,Might,Electronics,388.85,ORD20627,CUST1627,28.11,Justin,goldenjerry@campbell.org,South Georgia and the South Sandwich Islands,10/31/2024,2024,5.622
+PROD5628,Course,Beauty,449.45,ORD20628,CUST1628,190.07,Christopher,lmiller@paul-ayala.net,Pitcairn Islands,9/30/2023,2023,38.014
+PROD5629,Your,Home & Kitchen,39.67,ORD20629,CUST1629,614.81,Erin,tracysmith@le-collins.com,Morocco,8/31/2024,2024,122.962
+PROD5630,Tend,Electronics,5.46,ORD20630,CUST1630,1372.92,Christopher,oconnoramanda@maldonado-branch.com,Tunisia,11/30/2023,2023,274.584
+PROD5631,Position,Home & Kitchen,134.3,ORD20631,CUST1631,1428.23,Susan,dianejohnson@jackson.com,Mauritius,4/30/2023,2023,285.646
+PROD5632,Write,Books,28.93,ORD20632,CUST1632,291.04,Dylan,smithryan@kelly-dunn.org,Norfolk Island,10/31/2024,2024,58.208
+PROD5633,Travel,Beauty,139.05,ORD20633,CUST1633,618.08,Samuel,andrewmitchell@yahoo.com,Jamaica,7/31/2023,2023,123.616
+PROD5634,Today,Beauty,353.33,ORD20634,CUST1634,1466.66,Margaret,angela61@sampson.com,Malta,5/31/2024,2024,293.332
+PROD5635,Book,Clothing,35.22,ORD20635,CUST1635,1027.08,Joshua,charles60@yahoo.com,Samoa,5/31/2023,2023,205.416
+PROD5636,Film,Toys,456.97,ORD20636,CUST1636,409.78,Brenda,john88@gmail.com,Niger,9/30/2024,2024,81.956
+PROD5637,Must,Clothing,312.73,ORD20637,CUST1637,116.43,Nathan,hmartinez@hotmail.com,Iceland,10/31/2024,2024,23.286
+PROD5638,Probably,Books,280.04,ORD20638,CUST1638,711.69,Chris,sarahwheeler@mckenzie.com,Kuwait,8/31/2024,2024,142.338
+PROD5639,Condition,Home & Kitchen,26.77,ORD20639,CUST1639,586.15,Derrick,catherine73@gmail.com,Antarctica (the territory South of 60 deg S),7/31/2023,2023,117.23
+PROD5640,Can,Beauty,198.29,ORD20640,CUST1640,891.25,Sarah,smithamanda@roman.net,Dominica,4/30/2024,2024,178.25
+PROD5641,Research,Clothing,443.76,ORD20641,CUST1641,1164.64,Paul,adamarnold@moore.com,Marshall Islands,10/31/2023,2023,232.928
+PROD5642,Year,Books,71.62,ORD20642,CUST1642,638.69,Dustin,rossmelissa@reid.com,Honduras,6/30/2023,2023,127.738
+PROD5643,Little,Electronics,127.91,ORD20643,CUST1643,1390.35,Kayla,adaniel@yahoo.com,Poland,7/31/2023,2023,278.07
+PROD5644,Certainly,Books,414.82,ORD20644,CUST1644,1061.78,Steven,shannon62@tran.biz,Ukraine,9/30/2024,2024,212.356
+PROD5645,Detail,Electronics,80.69,ORD20645,CUST1645,1475.77,Matthew,rhondanorris@russell-spears.org,Puerto Rico,2/29/2024,2024,295.154
+PROD5646,Head,Clothing,250.9,ORD20646,CUST1646,298.89,Brandon,madison90@hotmail.com,Cambodia,11/30/2023,2023,59.778
+PROD5647,Newspaper,Beauty,478.37,ORD20647,CUST1647,1489.49,Samuel,rachel59@palmer.info,Lao People's Democratic Republic,4/30/2023,2023,297.898
+PROD5648,Scene,Electronics,404.49,ORD20648,CUST1648,499.94,Joshua,hurleybryan@bennett-mann.com,New Zealand,7/31/2024,2024,99.988
+PROD5649,Edge,Beauty,125.58,ORD20649,CUST1649,73.78,Renee,katie75@hotmail.com,United Arab Emirates,11/30/2024,2024,14.756
+PROD5650,Magazine,Clothing,65.72,ORD20650,CUST1650,442.53,Matthew,jocelyn86@evans-burns.com,Faroe Islands,9/30/2024,2024,88.506
+PROD5651,Begin,Toys,110.9,ORD20651,CUST1651,484.91,Donald,justinmichael@gmail.com,Wallis and Futuna,11/30/2024,2024,96.982
+PROD5652,Weight,Electronics,385.55,ORD20652,CUST1652,350.59,Daniel,egarcia@yahoo.com,Tanzania,10/31/2024,2024,70.118
+PROD5653,Large,Clothing,318.75,ORD20653,CUST1653,703.01,Alex,hpollard@gmail.com,Norway,8/31/2023,2023,140.602
+PROD5654,Deal,Electronics,29.31,ORD20654,CUST1654,115.24,Brittany,michael96@smith.org,Denmark,10/31/2023,2023,23.048
+PROD5655,Them,Toys,265.74,ORD20655,CUST1655,635.64,Rachel,lthomas@gmail.com,Kuwait,4/30/2024,2024,127.128
+PROD5656,Language,Toys,11.88,ORD20656,CUST1656,1148.65,Susan,melissacampbell@gmail.com,Tanzania,12/31/2024,2024,229.73
+PROD5657,Yard,Electronics,252.36,ORD20657,CUST1657,1202.46,William,younglynn@hotmail.com,Tajikistan,11/30/2023,2023,240.492
+PROD5658,Everything,Beauty,50.28,ORD20658,CUST1658,359.13,Nathan,kingangela@keller.com,Bahamas,9/30/2024,2024,71.826
+PROD5659,Cup,Toys,247.79,ORD20659,CUST1659,817.5,Brittany,nwest@gmail.com,Slovenia,11/30/2024,2024,163.5
+PROD5660,Benefit,Beauty,166.58,ORD20660,CUST1660,172.14,Kathryn,sheila58@fisher-torres.biz,Bulgaria,7/31/2024,2024,34.428
+PROD5661,Guess,Clothing,294.1,ORD20661,CUST1661,1265.74,Caitlyn,austin35@brady-woodward.biz,Bermuda,5/31/2024,2024,253.148
+PROD5662,Matter,Electronics,280.67,ORD20662,CUST1662,1459.82,Denise,tcarter@gmail.com,United Kingdom,9/30/2024,2024,291.964
+PROD5663,Reason,Beauty,158.53,ORD20663,CUST1663,91.31,Bryan,msnyder@gmail.com,Hong Kong,11/30/2023,2023,18.262
+PROD5664,His,Electronics,369.58,ORD20664,CUST1664,1452.63,Sharon,johnorr@nunez.biz,Puerto Rico,6/30/2023,2023,290.526
+PROD5665,Everything,Beauty,295.44,ORD20665,CUST1665,1126.29,Sara,gramirez@hotmail.com,Wallis and Futuna,5/31/2024,2024,225.258
+PROD5666,Field,Toys,461.66,ORD20666,CUST1666,323.22,Jeffrey,jessicabutler@hotmail.com,Bermuda,9/30/2024,2024,64.644
+PROD5667,Big,Home & Kitchen,490.71,ORD20667,CUST1667,701.04,Caleb,kimberly21@gmail.com,Denmark,6/30/2024,2024,140.208
+PROD5668,Speech,Books,342.96,ORD20668,CUST1668,837.58,Teresa,smorrison@yahoo.com,Jersey,3/31/2023,2023,167.516
+PROD5669,Under,Toys,405.94,ORD20669,CUST1669,1318.18,John,parkseric@gmail.com,Macedonia,3/31/2023,2023,263.636
+PROD5670,Rule,Electronics,297.29,ORD20670,CUST1670,991.76,Marcus,molly71@yahoo.com,Nigeria,11/30/2024,2024,198.352
+PROD5671,Him,Books,316.73,ORD20671,CUST1671,1293.11,Alyssa,williamslance@yahoo.com,South Georgia and the South Sandwich Islands,12/31/2024,2024,258.622
+PROD5672,Establish,Clothing,192.95,ORD20672,CUST1672,351.44,Daniel,bellwilliam@shepard.com,Morocco,5/31/2024,2024,70.288
+PROD5673,Someone,Home & Kitchen,56.48,ORD20673,CUST1673,508.16,Michael,singletondiana@lowe.com,Niue,4/30/2024,2024,101.632
+PROD5674,Former,Home & Kitchen,209.78,ORD20674,CUST1674,200.49,Meagan,pwillis@hotmail.com,Sri Lanka,7/31/2024,2024,40.098
+PROD5675,Southern,Beauty,267.54,ORD20675,CUST1675,186.48,Cody,bfischer@yahoo.com,Philippines,12/31/2024,2024,37.296
+PROD5676,Field,Toys,412.98,ORD20676,CUST1676,1248.09,Lee,swhite@hotmail.com,Timor-Leste,8/31/2023,2023,249.618
+PROD5677,For,Beauty,60.54,ORD20677,CUST1677,971.76,Laurie,lloydjoseph@robinson.org,Grenada,2/29/2024,2024,194.352
+PROD5678,No,Clothing,153.52,ORD20678,CUST1678,862.42,Gerald,phillipsmonique@yahoo.com,Montenegro,7/31/2023,2023,172.484
+PROD5679,Community,Books,475.04,ORD20679,CUST1679,825.72,Tony,james41@turner.com,Slovakia (Slovak Republic),1/31/2024,2024,165.144
+PROD5680,Win,Home & Kitchen,85.52,ORD20680,CUST1680,1247.24,Kyle,melissahughes@hotmail.com,Paraguay,5/31/2023,2023,249.448
+PROD5681,Support,Home & Kitchen,174.73,ORD20681,CUST1681,430.87,Erik,nicholasford@mays.com,Nigeria,6/30/2023,2023,86.174
+PROD5682,Able,Clothing,268.53,ORD20682,CUST1682,147.72,Beth,jesse80@yahoo.com,French Southern Territories,1/31/2024,2024,29.544
+PROD5683,Light,Clothing,126.06,ORD20683,CUST1683,95.67,Mark,kristinahall@fox.com,Bouvet Island (Bouvetoya),5/31/2024,2024,19.134
+PROD5684,Country,Books,247.66,ORD20684,CUST1684,894.99,Michele,jchang@gmail.com,Bangladesh,6/30/2024,2024,178.998
+PROD5685,Over,Toys,111.19,ORD20685,CUST1685,653.6,Jennifer,chamilton@morris.com,Grenada,2/29/2024,2024,130.72
+PROD5686,Stage,Electronics,322.77,ORD20686,CUST1686,1408.71,Destiny,wilsonhayden@yahoo.com,Liechtenstein,10/31/2024,2024,281.742
+PROD5687,Protect,Electronics,364.81,ORD20687,CUST1687,837.73,Nicole,miranda43@nicholson.com,Turkey,1/31/2025,2025,167.546
+PROD5688,Difficult,Books,10.44,ORD20688,CUST1688,917.04,Joseph,xwilliams@stewart-vega.com,Honduras,7/31/2023,2023,183.408
+PROD5689,Total,Beauty,152.49,ORD20689,CUST1689,138.52,Kathleen,johnsonsteven@gmail.com,Belarus,4/30/2024,2024,27.704
+PROD5690,Which,Home & Kitchen,229.21,ORD20690,CUST1690,1358.6,Steven,karen51@gmail.com,Guernsey,11/30/2023,2023,271.72
+PROD5691,Shoulder,Toys,381.71,ORD20691,CUST1691,1417.48,Joyce,nbaker@rios-rose.com,Slovenia,3/31/2024,2024,283.496
+PROD5692,Have,Books,392.92,ORD20692,CUST1692,256.33,Lisa,webstererik@walker-rojas.biz,Lao People's Democratic Republic,1/31/2025,2025,51.266
+PROD5693,Arrive,Books,164.52,ORD20693,CUST1693,1076.26,Diane,alexbrown@yahoo.com,Holy See (Vatican City State),10/31/2023,2023,215.252
+PROD5694,Product,Home & Kitchen,36.03,ORD20694,CUST1694,1203.09,Kevin,jillhowe@yahoo.com,Jersey,4/30/2023,2023,240.618
+PROD5695,Effect,Toys,222.96,ORD20695,CUST1695,1224.87,Stacey,shannonstevens@hotmail.com,Samoa,8/31/2024,2024,244.974
+PROD5696,Image,Toys,262.9,ORD20696,CUST1696,503.41,Tyler,elizabeth42@dillon.com,Falkland Islands (Malvinas),4/30/2024,2024,100.682
+PROD5697,You,Toys,482.47,ORD20697,CUST1697,318.08,Christopher,spencer71@gmail.com,Mayotte,2/29/2024,2024,63.616
+PROD5698,Exactly,Electronics,19.54,ORD20698,CUST1698,206.4,Philip,perezautumn@adams-hill.com,Malta,10/31/2024,2024,41.28
+PROD5699,Several,Books,90.97,ORD20699,CUST1699,127.27,Laura,amandawelch@flowers.com,Senegal,12/31/2023,2023,25.454
+PROD5700,Area,Books,23.69,ORD20700,CUST1700,786.54,Felicia,louisfranklin@yahoo.com,Bangladesh,7/31/2023,2023,157.308
+PROD5701,Matter,Electronics,308.77,ORD20701,CUST1701,93.67,Derek,bakerolivia@bishop.com,Guatemala,5/31/2024,2024,18.734
+PROD5702,Network,Toys,484.88,ORD20702,CUST1702,544.78,James,kennethgreen@jones-watts.info,Canada,7/31/2023,2023,108.956
+PROD5703,Pay,Beauty,486.1,ORD20703,CUST1703,20.87,Madison,robert52@gmail.com,Nauru,10/31/2024,2024,4.174
+PROD5704,Care,Toys,189.89,ORD20704,CUST1704,1253.61,Erica,watkinsjenna@hotmail.com,Russian Federation,1/31/2025,2025,250.722
+PROD5705,Already,Clothing,268.82,ORD20705,CUST1705,35.67,Monica,bcox@shepherd.com,Somalia,12/31/2023,2023,7.134
+PROD5706,Special,Books,169.39,ORD20706,CUST1706,1217.95,Justin,jimenezheather@gmail.com,Hungary,9/30/2023,2023,243.59
+PROD5707,Tell,Toys,417.91,ORD20707,CUST1707,691.47,Jacqueline,bernardjonathan@marshall.com,Reunion,11/30/2023,2023,138.294
+PROD5708,Hair,Toys,81.43,ORD20708,CUST1708,1019.04,Bradley,hherring@hotmail.com,Swaziland,2/28/2023,2023,203.808
+PROD5709,News,Electronics,475.4,ORD20709,CUST1709,1470.6,Kristina,stacywilkerson@johnson-lynch.com,Faroe Islands,8/31/2024,2024,294.12
+PROD5710,Sign,Toys,168.05,ORD20710,CUST1710,486.26,Kimberly,melissavazquez@robles.com,Mozambique,1/31/2024,2024,97.252
+PROD5711,Keep,Toys,333.26,ORD20711,CUST1711,182.76,Katrina,susan74@strickland.org,Sweden,12/31/2023,2023,36.552
+PROD5712,Crime,Toys,147.61,ORD20712,CUST1712,183.03,Christopher,kevin26@hotmail.com,Antigua and Barbuda,12/31/2023,2023,36.606
+PROD5713,Friend,Toys,296.52,ORD20713,CUST1713,597.66,Lindsey,vray@yahoo.com,Bosnia and Herzegovina,2/29/2024,2024,119.532
+PROD5714,Carry,Home & Kitchen,467.34,ORD20714,CUST1714,307.51,Brian,xnorris@kirk.info,Tonga,9/30/2023,2023,61.502
+PROD5715,Mr,Books,13.27,ORD20715,CUST1715,524.36,John,ksmith@hotmail.com,Congo,7/31/2023,2023,104.872
+PROD5716,Former,Clothing,475.8,ORD20716,CUST1716,1234.88,Chad,rmendez@yahoo.com,Myanmar,6/30/2024,2024,246.976
+PROD5717,War,Toys,234.31,ORD20717,CUST1717,625.3,Billy,morenojose@jones.com,Malta,5/31/2024,2024,125.06
+PROD5718,Per,Books,208.55,ORD20718,CUST1718,904.65,Eric,dave32@yahoo.com,United States Minor Outlying Islands,6/30/2023,2023,180.93
+PROD5719,Easy,Beauty,52.31,ORD20719,CUST1719,1291.61,David,richard65@gmail.com,Andorra,4/30/2023,2023,258.322
+PROD5720,Five,Clothing,120.58,ORD20720,CUST1720,150.71,Jesse,underwoodjoshua@perkins-hanna.com,Netherlands Antilles,12/31/2024,2024,30.142
+PROD5721,Check,Books,374.24,ORD20721,CUST1721,1335.24,Laura,michaeltaylor@gmail.com,Mauritius,7/31/2024,2024,267.048
+PROD5722,Accept,Beauty,462.79,ORD20722,CUST1722,59.09,Timothy,combsnathan@rhodes-ruiz.com,Malaysia,7/31/2023,2023,11.818
+PROD5723,Medical,Toys,395.91,ORD20723,CUST1723,627.15,Jennifer,livingstonrose@hotmail.com,Guadeloupe,9/30/2023,2023,125.43
+PROD5724,East,Beauty,457.35,ORD20724,CUST1724,878.24,Jocelyn,jacksondylan@jenkins.com,Yemen,3/31/2024,2024,175.648
+PROD5725,Up,Beauty,256.39,ORD20725,CUST1725,47.34,Tyler,hoodkenneth@yahoo.com,Bolivia,12/31/2023,2023,9.468
+PROD5726,Would,Clothing,14.88,ORD20726,CUST1726,889.74,Marc,sara15@white.com,Thailand,9/30/2024,2024,177.948
+PROD5727,Democrat,Home & Kitchen,48.64,ORD20727,CUST1727,102.01,Emily,carpenterkristen@gmail.com,Tuvalu,6/30/2024,2024,20.402
+PROD5728,Republican,Beauty,19.88,ORD20728,CUST1728,798.91,Pamela,nicole43@yahoo.com,Nigeria,10/31/2023,2023,159.782
+PROD5729,Your,Books,354.36,ORD20729,CUST1729,1342.31,Daniel,randall65@davis.com,Bouvet Island (Bouvetoya),2/29/2024,2024,268.462
+PROD5730,Set,Electronics,206.56,ORD20730,CUST1730,683.45,Valerie,garciaamber@schroeder.com,Azerbaijan,4/30/2024,2024,136.69
+PROD5731,Trial,Toys,24.55,ORD20731,CUST1731,1385.9,Christopher,knappkendra@hotmail.com,Kuwait,9/30/2023,2023,277.18
+PROD5732,Front,Home & Kitchen,359.05,ORD20732,CUST1732,1017.52,Joseph,jamie22@yahoo.com,Iceland,1/31/2024,2024,203.504
+PROD5733,Least,Electronics,10.38,ORD20733,CUST1733,1395.97,Alexander,lgreene@yahoo.com,Morocco,5/31/2024,2024,279.194
+PROD5734,See,Beauty,311.28,ORD20734,CUST1734,1208.03,Nicole,donald04@gmail.com,Malaysia,10/31/2023,2023,241.606
+PROD5735,Hospital,Beauty,495.42,ORD20735,CUST1735,218.39,Joseph,christine78@gmail.com,Malaysia,8/31/2023,2023,43.678
+PROD5736,Effect,Home & Kitchen,390.1,ORD20736,CUST1736,110.76,Kimberly,mcdonaldrodney@welch.com,Greece,7/31/2024,2024,22.152
+PROD5737,Kitchen,Home & Kitchen,72.49,ORD20737,CUST1737,923.53,Joshua,brian62@yahoo.com,Switzerland,12/31/2024,2024,184.706
+PROD5738,Price,Beauty,123.15,ORD20738,CUST1738,1151.27,Jonathan,david87@hotmail.com,Macedonia,9/30/2023,2023,230.254
+PROD5739,Check,Electronics,359.24,ORD20739,CUST1739,1225.94,Robin,jennifer42@castaneda.info,Cape Verde,6/30/2024,2024,245.188
+PROD5740,Already,Books,244.04,ORD20740,CUST1740,1396.34,Joseph,swoods@fox.info,Palau,5/31/2024,2024,279.268
+PROD5741,Police,Toys,235.41,ORD20741,CUST1741,68.17,Tony,brandon92@hotmail.com,Iran,7/31/2023,2023,13.634
+PROD5742,Attention,Toys,217.42,ORD20742,CUST1742,573.08,John,nicholas81@vang.net,Samoa,7/31/2023,2023,114.616
+PROD5743,In,Beauty,247.86,ORD20743,CUST1743,404.95,Michelle,jordandavid@keller.com,Senegal,2/29/2024,2024,80.99
+PROD5744,Suffer,Toys,178.37,ORD20744,CUST1744,1073.15,Frederick,wellison@hotmail.com,Mozambique,8/31/2024,2024,214.63
+PROD5745,Piece,Toys,241.92,ORD20745,CUST1745,335.48,Jacob,randy47@hotmail.com,Liberia,8/31/2024,2024,67.096
+PROD5746,Life,Clothing,296.82,ORD20746,CUST1746,990.69,Michael,mccormickjose@carter.com,Heard Island and McDonald Islands,8/31/2024,2024,198.138
+PROD5747,Book,Clothing,127.06,ORD20747,CUST1747,1278.2,Aaron,joy53@yahoo.com,Belarus,9/30/2024,2024,255.64
+PROD5748,Later,Electronics,443.59,ORD20748,CUST1748,1071.25,Jesse,pdouglas@lee-vang.org,Argentina,7/31/2024,2024,214.25
+PROD5749,Safe,Beauty,480.56,ORD20749,CUST1749,796.85,David,robinrobinson@yahoo.com,Vietnam,12/31/2023,2023,159.37
+PROD5750,Management,Toys,397.4,ORD20750,CUST1750,467.5,David,dawsonmegan@gmail.com,Bulgaria,8/31/2024,2024,93.5
+PROD5751,Letter,Clothing,93.01,ORD20751,CUST1751,1253.12,Tiffany,danielperkins@hotmail.com,Somalia,2/28/2025,2025,250.624
+PROD5752,Special,Electronics,338.07,ORD20752,CUST1752,1464.7,Madeline,morrisonandrew@thornton.org,Algeria,3/31/2023,2023,292.94
+PROD5753,Ok,Toys,130.78,ORD20753,CUST1753,861.41,Christopher,fthomas@hotmail.com,Lithuania,10/31/2023,2023,172.282
+PROD5754,Admit,Beauty,402.42,ORD20754,CUST1754,1278.84,Sabrina,jadehowell@weaver.com,Zimbabwe,3/31/2023,2023,255.768
+PROD5755,Peace,Books,158.74,ORD20755,CUST1755,1224.17,Tara,michellerodgers@murphy.com,Congo,11/30/2023,2023,244.834
+PROD5756,Would,Clothing,41.69,ORD20756,CUST1756,579.02,Luis,xperez@yahoo.com,Central African Republic,8/31/2023,2023,115.804
+PROD5757,Focus,Beauty,119.4,ORD20757,CUST1757,476.46,William,ashley18@ortiz-jordan.net,Bermuda,3/31/2024,2024,95.292
+PROD5758,Election,Toys,360.82,ORD20758,CUST1758,767.21,William,katieroberts@randolph.com,Ecuador,11/30/2023,2023,153.442
+PROD5759,Image,Electronics,5.61,ORD20759,CUST1759,119.04,Kaitlyn,simselizabeth@yahoo.com,Seychelles,10/31/2024,2024,23.808
+PROD5760,West,Beauty,111.84,ORD20760,CUST1760,995.42,Michelle,amygreen@house.com,Guatemala,11/30/2024,2024,199.084
+PROD5761,Central,Electronics,12.13,ORD20761,CUST1761,1121.41,Zachary,william79@yahoo.com,Korea,5/31/2023,2023,224.282
+PROD5762,Social,Toys,292.83,ORD20762,CUST1762,1494.26,Rebecca,daisy98@yahoo.com,Israel,4/30/2023,2023,298.852
+PROD5763,Natural,Electronics,307.05,ORD20763,CUST1763,790.75,Heather,avilamaria@lopez.com,Western Sahara,2/28/2023,2023,158.15
+PROD5764,She,Clothing,293.39,ORD20764,CUST1764,792.74,Wesley,alexandragarcia@russell.com,Ukraine,12/31/2023,2023,158.548
+PROD5765,Else,Books,451.24,ORD20765,CUST1765,1390.37,John,castrobrittany@yahoo.com,United Kingdom,8/31/2023,2023,278.074
+PROD5766,Cold,Home & Kitchen,290.86,ORD20766,CUST1766,258.71,Lori,donaldgonzalez@gmail.com,Western Sahara,2/29/2024,2024,51.742
+PROD5767,Hair,Electronics,12.81,ORD20767,CUST1767,1191.7,Jon,yorkkayla@yahoo.com,Falkland Islands (Malvinas),3/31/2023,2023,238.34
+PROD5768,Majority,Home & Kitchen,273.49,ORD20768,CUST1768,607.3,Caitlin,dannyrandolph@yahoo.com,Antigua and Barbuda,5/31/2024,2024,121.46
+PROD5769,With,Home & Kitchen,363.21,ORD20769,CUST1769,430.2,Jason,joannalee@yahoo.com,Brunei Darussalam,5/31/2024,2024,86.04
+PROD5770,Friend,Toys,31.09,ORD20770,CUST1770,1003.99,April,kristy36@christian-ayala.com,Djibouti,12/31/2024,2024,200.798
+PROD5771,Time,Toys,464.35,ORD20771,CUST1771,120.78,Cheryl,vhernandez@gmail.com,American Samoa,12/31/2024,2024,24.156
+PROD5772,Then,Toys,39.01,ORD20772,CUST1772,586.08,Kenneth,rosetimothy@bruce.org,Gibraltar,10/31/2024,2024,117.216
+PROD5773,Meet,Electronics,408.07,ORD20773,CUST1773,299.88,Samuel,brendaperez@yahoo.com,Georgia,11/30/2024,2024,59.976
+PROD5774,Smile,Clothing,175.89,ORD20774,CUST1774,1468.24,Amber,troyduncan@yahoo.com,Saint Lucia,5/31/2023,2023,293.648
+PROD5775,Material,Electronics,463.99,ORD20775,CUST1775,1120.24,Mikayla,sharonwong@gmail.com,Netherlands Antilles,6/30/2023,2023,224.048
+PROD5776,Note,Electronics,59.23,ORD20776,CUST1776,994.92,Rebecca,davidrivera@patterson-gomez.com,Jersey,8/31/2023,2023,198.984
+PROD5777,Save,Toys,443.58,ORD20777,CUST1777,1226.29,James,travis12@gonzalez.com,Albania,8/31/2024,2024,245.258
+PROD5778,Guy,Home & Kitchen,300.08,ORD20778,CUST1778,725.99,Christina,hillsonia@gmail.com,Costa Rica,4/30/2024,2024,145.198
+PROD5779,Individual,Clothing,15.83,ORD20779,CUST1779,538.49,Jessica,katie24@mayer.com,Montenegro,9/30/2024,2024,107.698
+PROD5780,Small,Books,168.96,ORD20780,CUST1780,1202.55,Melanie,williammiller@gmail.com,Niue,4/30/2023,2023,240.51
+PROD5781,The,Toys,16.34,ORD20781,CUST1781,209.87,Robert,mike83@johnson-lloyd.com,Honduras,10/31/2023,2023,41.974
+PROD5782,Federal,Electronics,159.85,ORD20782,CUST1782,83.71,Nancy,amandahenry@walter.info,Trinidad and Tobago,7/31/2024,2024,16.742
+PROD5783,Budget,Beauty,266.44,ORD20783,CUST1783,1259.36,Sara,qwilson@brown.info,Palestinian Territory,8/31/2024,2024,251.872
+PROD5784,Together,Electronics,438.5,ORD20784,CUST1784,901.01,Haley,april16@hotmail.com,San Marino,6/30/2023,2023,180.202
+PROD5785,Attorney,Home & Kitchen,412.94,ORD20785,CUST1785,1448.63,James,cortezamber@hotmail.com,Iceland,12/31/2023,2023,289.726
+PROD5786,Into,Electronics,111.08,ORD20786,CUST1786,143.74,Sheena,joshuahurst@hotmail.com,Cyprus,3/31/2023,2023,28.748
+PROD5787,Interview,Books,193.04,ORD20787,CUST1787,394.56,Joy,travis97@gmail.com,Poland,12/31/2024,2024,78.912
+PROD5788,Natural,Books,399.09,ORD20788,CUST1788,396.21,Willie,hmartinez@peterson.info,Austria,4/30/2023,2023,79.242
+PROD5789,Ago,Electronics,149.84,ORD20789,CUST1789,251.9,Brent,deborahdavis@powers-kennedy.net,Marshall Islands,6/30/2024,2024,50.38
+PROD5790,War,Clothing,133.6,ORD20790,CUST1790,975.35,Madison,smithtony@mann-anderson.com,Belarus,12/31/2023,2023,195.07
+PROD5791,There,Clothing,359,ORD20791,CUST1791,1472.75,Karen,kimberly24@gmail.com,Jordan,8/31/2023,2023,294.55
+PROD5792,Represent,Home & Kitchen,251.06,ORD20792,CUST1792,262.74,Benjamin,mikebell@hotmail.com,Fiji,2/28/2025,2025,52.548
+PROD5793,Positive,Home & Kitchen,328.02,ORD20793,CUST1793,560.66,Jorge,curryjoshua@hotmail.com,Bermuda,11/30/2023,2023,112.132
+PROD5794,Staff,Toys,253.55,ORD20794,CUST1794,250.88,Michael,kwhite@chavez.com,Uganda,8/31/2023,2023,50.176
+PROD5795,Get,Beauty,50.11,ORD20795,CUST1795,1368.98,Jorge,astein@hicks-atkinson.com,Estonia,10/31/2023,2023,273.796
+PROD5796,Significant,Toys,201.64,ORD20796,CUST1796,1260.7,Caleb,alex09@snyder-quinn.com,French Polynesia,2/29/2024,2024,252.14
+PROD5797,Night,Beauty,375.13,ORD20797,CUST1797,434.34,Laura,nbrooks@yahoo.com,Nigeria,6/30/2024,2024,86.868
+PROD5798,Rule,Toys,412.5,ORD20798,CUST1798,583.89,James,joneslauren@hotmail.com,Mayotte,12/31/2024,2024,116.778
+PROD5799,Thank,Home & Kitchen,170.09,ORD20799,CUST1799,547.68,Paul,marymoore@phillips-cline.com,Czech Republic,3/31/2024,2024,109.536
+PROD5800,Thank,Books,329.18,ORD20800,CUST1800,978.63,Melissa,zodonnell@hotmail.com,Jordan,2/28/2023,2023,195.726
+PROD5801,Deep,Toys,453.66,ORD20801,CUST1801,123.05,Deborah,hurleydouglas@gmail.com,Cayman Islands,11/30/2023,2023,24.61
+PROD5802,Remember,Toys,182.02,ORD20802,CUST1802,823.4,Joshua,fwilliams@gmail.com,Kenya,5/31/2023,2023,164.68
+PROD5803,Alone,Clothing,481.1,ORD20803,CUST1803,759.91,Lori,johnsonkayla@lucas.com,Mozambique,5/31/2023,2023,151.982
+PROD5804,Change,Clothing,356.45,ORD20804,CUST1804,443.42,James,sanderslisa@hotmail.com,Thailand,5/31/2024,2024,88.684
+PROD5805,Political,Toys,179.46,ORD20805,CUST1805,408.85,Eric,meyerlawrence@yahoo.com,Heard Island and McDonald Islands,9/30/2024,2024,81.77
+PROD5806,Ten,Electronics,9.02,ORD20806,CUST1806,602.27,Matthew,mariawatts@gmail.com,Saudi Arabia,3/31/2024,2024,120.454
+PROD5807,Anyone,Home & Kitchen,153.65,ORD20807,CUST1807,390.24,Lisa,sharon87@myers-nunez.org,China,12/31/2024,2024,78.048
+PROD5808,Decade,Clothing,424.85,ORD20808,CUST1808,1416.33,Maria,lsimmons@franco-palmer.com,Ireland,6/30/2024,2024,283.266
+PROD5809,Because,Clothing,75.21,ORD20809,CUST1809,1122.89,Ellen,cpeterson@yahoo.com,El Salvador,5/31/2023,2023,224.578
+PROD5810,Behavior,Books,308.31,ORD20810,CUST1810,224.54,Justin,williamsmark@ross-evans.info,Saint Vincent and the Grenadines,5/31/2024,2024,44.908
+PROD5811,Fast,Clothing,193.77,ORD20811,CUST1811,1495.66,Lisa,mcgrathdenise@rowe.org,Cayman Islands,12/31/2024,2024,299.132
+PROD5812,Stage,Home & Kitchen,226.42,ORD20812,CUST1812,611.11,David,xyates@gmail.com,Wallis and Futuna,4/30/2024,2024,122.222
+PROD5813,Rise,Beauty,361.09,ORD20813,CUST1813,116.8,Jon,rogerssean@chang.com,Hungary,7/31/2024,2024,23.36
+PROD5814,Water,Books,27.6,ORD20814,CUST1814,952.88,Rebecca,danieljohn@ramirez.biz,Kyrgyz Republic,2/29/2024,2024,190.576
+PROD5815,Hair,Clothing,345.65,ORD20815,CUST1815,111.81,Patricia,michael16@yahoo.com,Wallis and Futuna,10/31/2023,2023,22.362
+PROD5816,Make,Beauty,31.2,ORD20816,CUST1816,184.1,Sara,cassandra39@yahoo.com,Bolivia,8/31/2024,2024,36.82
+PROD5817,Anyone,Toys,121.03,ORD20817,CUST1817,1020.75,Andrea,dmartin@gray-brown.com,Guadeloupe,7/31/2023,2023,204.15
+PROD5818,Though,Electronics,360.65,ORD20818,CUST1818,938.44,Ashley,wadeeric@calderon-west.com,Mali,11/30/2023,2023,187.688
+PROD5819,Officer,Books,354.02,ORD20819,CUST1819,834.91,Margaret,josephwagner@hotmail.com,Falkland Islands (Malvinas),7/31/2023,2023,166.982
+PROD5820,Each,Electronics,121.73,ORD20820,CUST1820,1315.69,Derek,imclaughlin@hotmail.com,Belarus,3/31/2024,2024,263.138
+PROD5821,Represent,Beauty,369.36,ORD20821,CUST1821,496.94,Michele,parsonsjoseph@phillips.com,Barbados,9/30/2024,2024,99.388
+PROD5822,Way,Toys,316.63,ORD20822,CUST1822,975.1,Tiffany,ylewis@chavez.biz,Netherlands Antilles,2/29/2024,2024,195.02
+PROD5823,Total,Beauty,324.99,ORD20823,CUST1823,1407.33,Jacqueline,bonnie30@yahoo.com,Angola,4/30/2023,2023,281.466
+PROD5824,Seek,Books,468.2,ORD20824,CUST1824,826.38,David,fali@shepherd-welch.com,Cameroon,5/31/2024,2024,165.276
+PROD5825,Book,Home & Kitchen,38.47,ORD20825,CUST1825,216.03,Samuel,kimberly57@yahoo.com,Pitcairn Islands,9/30/2023,2023,43.206
+PROD5826,Whatever,Beauty,135.23,ORD20826,CUST1826,393.11,Charles,dianaflores@gmail.com,Uzbekistan,1/31/2024,2024,78.622
+PROD5827,Pull,Books,278.6,ORD20827,CUST1827,268.82,Heather,jamesbailey@hernandez.com,Svalbard & Jan Mayen Islands,9/30/2024,2024,53.764
+PROD5828,She,Home & Kitchen,183.44,ORD20828,CUST1828,984.35,Katie,julie34@harris.net,Slovakia (Slovak Republic),6/30/2024,2024,196.87
+PROD5829,Area,Electronics,158.18,ORD20829,CUST1829,1262.02,Thomas,emilywilson@hotmail.com,Greece,7/31/2023,2023,252.404
+PROD5830,Stock,Clothing,482.73,ORD20830,CUST1830,1119.11,Rachel,wilsonsteven@garcia.biz,Tajikistan,3/31/2023,2023,223.822
+PROD5831,Food,Home & Kitchen,334.34,ORD20831,CUST1831,645.3,Anna,archerkimberly@weiss-holt.info,Djibouti,6/30/2023,2023,129.06
+PROD5832,Apply,Home & Kitchen,278.51,ORD20832,CUST1832,1235.86,Christopher,traci21@hotmail.com,Grenada,9/30/2023,2023,247.172
+PROD5833,Allow,Clothing,47.66,ORD20833,CUST1833,548.18,Kathleen,stacy13@yahoo.com,Russian Federation,9/30/2024,2024,109.636
+PROD5834,Sort,Books,388.09,ORD20834,CUST1834,1494.75,Stephanie,rfrancis@skinner.com,Panama,1/31/2025,2025,298.95
+PROD5835,Dinner,Toys,313.78,ORD20835,CUST1835,274.67,David,ashley83@hotmail.com,Cape Verde,3/31/2024,2024,54.934
+PROD5836,Ever,Toys,336.22,ORD20836,CUST1836,236.09,Timothy,matthewgarrison@harper-hunter.com,Georgia,2/29/2024,2024,47.218
+PROD5837,Beautiful,Electronics,172.07,ORD20837,CUST1837,412.32,Francisco,mccoyfelicia@stewart.info,Isle of Man,1/31/2024,2024,82.464
+PROD5838,Result,Books,207.36,ORD20838,CUST1838,215.17,Crystal,michaelarnold@hammond.com,Tajikistan,11/30/2024,2024,43.034
+PROD5839,Environment,Toys,77.69,ORD20839,CUST1839,391.61,John,ctorres@hotmail.com,Brunei Darussalam,5/31/2024,2024,78.322
+PROD5840,Job,Home & Kitchen,187.58,ORD20840,CUST1840,1348.74,Lisa,suzannelove@hotmail.com,Lebanon,9/30/2023,2023,269.748
+PROD5841,Expert,Electronics,243,ORD20841,CUST1841,730,John,cwalters@perez.com,Netherlands,5/31/2024,2024,146
+PROD5842,Action,Toys,149.83,ORD20842,CUST1842,1007.75,Laura,rowlandjenna@peterson.com,United Kingdom,4/30/2023,2023,201.55
+PROD5843,Voice,Electronics,496.41,ORD20843,CUST1843,381.38,Lori,shawn29@yahoo.com,United States Minor Outlying Islands,10/31/2024,2024,76.276
+PROD5844,Carry,Electronics,374.51,ORD20844,CUST1844,113.88,Yolanda,smoore@thompson-ryan.com,Korea,6/30/2023,2023,22.776
+PROD5845,Alone,Beauty,72.61,ORD20845,CUST1845,1419.72,Nicholas,williamskatrina@jackson.com,Heard Island and McDonald Islands,4/30/2023,2023,283.944
+PROD5846,Social,Clothing,304.69,ORD20846,CUST1846,1446.24,Timothy,jo98@acevedo.com,Gabon,4/30/2023,2023,289.248
+PROD5847,Art,Books,62.42,ORD20847,CUST1847,675.03,Robert,curtis35@gregory-ramirez.com,Austria,1/31/2025,2025,135.006
+PROD5848,These,Toys,5.33,ORD20848,CUST1848,1296.38,Leslie,xhebert@gmail.com,Andorra,7/31/2023,2023,259.276
+PROD5849,Hope,Clothing,293.73,ORD20849,CUST1849,811.28,Brianna,turneranna@schwartz.com,Croatia,9/30/2023,2023,162.256
+PROD5850,Admit,Toys,371.4,ORD20850,CUST1850,388.68,Kristin,keith17@jones.com,Benin,2/28/2023,2023,77.736
+PROD5851,Source,Toys,314.37,ORD20851,CUST1851,741.22,John,kgarcia@yahoo.com,United States Virgin Islands,4/30/2023,2023,148.244
+PROD5852,Partner,Clothing,496.05,ORD20852,CUST1852,879.42,Daniel,david55@hotmail.com,Estonia,12/31/2024,2024,175.884
+PROD5853,Race,Home & Kitchen,487.99,ORD20853,CUST1853,1054.86,Jimmy,stephanierogers@jones-cantu.biz,Tokelau,1/31/2024,2024,210.972
+PROD5854,Hope,Beauty,365.7,ORD20854,CUST1854,977.5,Troy,yherman@graves.com,Grenada,5/31/2024,2024,195.5
+PROD5855,Travel,Home & Kitchen,194.6,ORD20855,CUST1855,1375.74,Thomas,carlyestrada@gmail.com,Turkmenistan,2/28/2023,2023,275.148
+PROD5856,Have,Toys,57.05,ORD20856,CUST1856,1019.36,Cory,uthomas@yahoo.com,Tajikistan,12/31/2023,2023,203.872
+PROD5857,Increase,Books,352.75,ORD20857,CUST1857,1393.6,Michael,littlekathryn@smith.net,Djibouti,1/31/2025,2025,278.72
+PROD5858,State,Toys,178.35,ORD20858,CUST1858,152.88,Stacy,davidjoseph@gmail.com,Algeria,7/31/2024,2024,30.576
+PROD5859,Word,Toys,157.88,ORD20859,CUST1859,795.7,Kimberly,mwilliams@gmail.com,Cayman Islands,4/30/2024,2024,159.14
+PROD5860,Few,Books,259.8,ORD20860,CUST1860,1306.58,Aaron,codymayo@hotmail.com,Kenya,8/31/2023,2023,261.316
+PROD5861,Analysis,Electronics,459.87,ORD20861,CUST1861,599.56,Lindsey,carterwilliam@hotmail.com,Rwanda,5/31/2023,2023,119.912
+PROD5862,Thank,Home & Kitchen,49.29,ORD20862,CUST1862,254.83,Ashley,glennthomas@taylor-cline.com,Ukraine,2/28/2023,2023,50.966
+PROD5863,Energy,Home & Kitchen,65.69,ORD20863,CUST1863,510.09,Christopher,cameronjohn@hotmail.com,Mayotte,9/30/2023,2023,102.018
+PROD5864,Live,Clothing,393.42,ORD20864,CUST1864,418.62,Frank,joseph36@hotmail.com,Suriname,4/30/2023,2023,83.724
+PROD5865,Dinner,Books,37.26,ORD20865,CUST1865,1296.85,Mikayla,brian23@yahoo.com,Iceland,2/29/2024,2024,259.37
+PROD5866,Pay,Home & Kitchen,308.76,ORD20866,CUST1866,485.05,Lee,kenneth58@bennett.com,French Polynesia,11/30/2023,2023,97.01
+PROD5867,Baby,Toys,145.63,ORD20867,CUST1867,924.74,Jason,jessica92@blackburn-reeves.biz,Mauritius,2/28/2023,2023,184.948
+PROD5868,Could,Toys,460.9,ORD20868,CUST1868,1465.21,Bruce,pruittgary@hotmail.com,Slovakia (Slovak Republic),4/30/2024,2024,293.042
+PROD5869,Key,Clothing,281.57,ORD20869,CUST1869,340.42,Michael,jakemoore@jones-smith.biz,Western Sahara,3/31/2023,2023,68.084
+PROD5870,Ready,Books,374.81,ORD20870,CUST1870,931.89,Amy,gina34@gonzalez.com,South Africa,3/31/2023,2023,186.378
+PROD5871,Good,Books,489.74,ORD20871,CUST1871,558.45,James,kimberlyfrank@mathews.info,Botswana,11/30/2024,2024,111.69
+PROD5872,Weight,Home & Kitchen,378.84,ORD20872,CUST1872,1308.92,Cheryl,lbarrera@hotmail.com,Georgia,12/31/2024,2024,261.784
+PROD5873,Should,Home & Kitchen,158.9,ORD20873,CUST1873,30.02,Ryan,wjones@hopkins.net,Madagascar,12/31/2023,2023,6.004
+PROD5874,Here,Clothing,342.65,ORD20874,CUST1874,539.73,John,vdodson@yahoo.com,Saint Vincent and the Grenadines,4/30/2024,2024,107.946
+PROD5875,Result,Toys,343.05,ORD20875,CUST1875,1477.51,Allison,millerterrance@hotmail.com,Montenegro,9/30/2024,2024,295.502
+PROD5876,Suffer,Beauty,464.37,ORD20876,CUST1876,468.7,Mary,martinkatherine@hotmail.com,Palestinian Territory,7/31/2024,2024,93.74
+PROD5877,They,Electronics,485.27,ORD20877,CUST1877,565.59,Stephanie,lisacarter@hotmail.com,Nigeria,4/30/2023,2023,113.118
+PROD5878,Minute,Books,402.74,ORD20878,CUST1878,1393.83,Lisa,garciamichael@gmail.com,Lithuania,7/31/2023,2023,278.766
+PROD5879,Employee,Toys,87.3,ORD20879,CUST1879,347,Amy,parkspaul@oliver-davis.net,China,1/31/2025,2025,69.4
+PROD5880,Around,Beauty,428.45,ORD20880,CUST1880,1215.93,William,casey32@garcia.org,Bermuda,4/30/2023,2023,243.186
+PROD5881,Scene,Electronics,238.45,ORD20881,CUST1881,1178.63,Amy,folson@gmail.com,Pitcairn Islands,11/30/2023,2023,235.726
+PROD5882,Coach,Beauty,223.46,ORD20882,CUST1882,298.12,Mark,trujilloerika@cummings.com,Mali,4/30/2023,2023,59.624
+PROD5883,Ball,Toys,279.19,ORD20883,CUST1883,1157.11,Melvin,stevenrichards@gmail.com,Reunion,1/31/2025,2025,231.422
+PROD5884,Eight,Beauty,435.23,ORD20884,CUST1884,433.1,Cynthia,jmorgan@hotmail.com,Botswana,7/31/2024,2024,86.62
+PROD5885,Mother,Books,219.59,ORD20885,CUST1885,200.29,Anna,sototimothy@carter.biz,Grenada,3/31/2023,2023,40.058
+PROD5886,Life,Electronics,61.56,ORD20886,CUST1886,689.13,Melissa,krose@thompson-roach.com,Malaysia,3/31/2023,2023,137.826
+PROD5887,Idea,Beauty,252.21,ORD20887,CUST1887,753.68,Joshua,rjackson@hotmail.com,Macedonia,5/31/2024,2024,150.736
+PROD5888,About,Beauty,145.37,ORD20888,CUST1888,580.65,Patrick,robert07@jackson-hess.com,Antarctica (the territory South of 60 deg S),11/30/2024,2024,116.13
+PROD5889,Out,Home & Kitchen,321.38,ORD20889,CUST1889,692.81,Christopher,umorgan@wiggins.com,Norfolk Island,11/30/2024,2024,138.562
+PROD5890,Skill,Toys,383.47,ORD20890,CUST1890,610.58,Melinda,troy12@mcmillan.com,Cameroon,3/31/2023,2023,122.116
+PROD5891,Little,Electronics,291.15,ORD20891,CUST1891,776.51,Peggy,smithsabrina@david.com,Tajikistan,7/31/2024,2024,155.302
+PROD5892,Say,Electronics,311.3,ORD20892,CUST1892,688.6,Melissa,aaron36@sweeney.info,Mali,6/30/2023,2023,137.72
+PROD5893,Interest,Toys,108.62,ORD20893,CUST1893,484.02,Jennifer,adamschristina@hotmail.com,Isle of Man,7/31/2024,2024,96.804
+PROD5894,Page,Home & Kitchen,17.69,ORD20894,CUST1894,752.31,Krystal,jenniferdavis@hotmail.com,Costa Rica,3/31/2024,2024,150.462
+PROD5895,Floor,Beauty,300.33,ORD20895,CUST1895,510.28,Gina,dshort@george.biz,Morocco,6/30/2023,2023,102.056
+PROD5896,Meeting,Toys,449.01,ORD20896,CUST1896,745.3,Shawn,davidjones@gmail.com,Zambia,10/31/2023,2023,149.06
+PROD5897,According,Clothing,360.05,ORD20897,CUST1897,58.09,Sandra,oliviaarnold@yahoo.com,Guam,1/31/2024,2024,11.618
+PROD5898,Find,Clothing,446.72,ORD20898,CUST1898,952.83,Abigail,xjohnson@yahoo.com,Saint Martin,5/31/2023,2023,190.566
+PROD5899,Truth,Clothing,341.63,ORD20899,CUST1899,1299.85,Joseph,lisaadams@hotmail.com,Madagascar,9/30/2024,2024,259.97
+PROD5900,Modern,Toys,29.54,ORD20900,CUST1900,438.77,Manuel,thughes@martinez.com,Malaysia,2/28/2025,2025,87.754
+PROD5901,Movie,Electronics,473.29,ORD20901,CUST1901,993.16,Linda,syu@sims.net,Korea,12/31/2023,2023,198.632
+PROD5902,Sport,Electronics,247.95,ORD20902,CUST1902,155.16,Steven,melissa14@hotmail.com,Cambodia,1/31/2025,2025,31.032
+PROD5903,Yes,Clothing,346.47,ORD20903,CUST1903,556.74,Michael,mowens@robinson-flores.com,Guatemala,9/30/2023,2023,111.348
+PROD5904,Avoid,Electronics,357.9,ORD20904,CUST1904,73.36,Daniel,lfoley@lawson-harris.com,Jersey,10/31/2023,2023,14.672
+PROD5905,Human,Beauty,311.08,ORD20905,CUST1905,1365.3,Lori,ghudson@fox.info,Haiti,7/31/2023,2023,273.06
+PROD5906,Near,Electronics,437.44,ORD20906,CUST1906,1096.23,Jessica,kristinweeks@welch.com,Liechtenstein,7/31/2024,2024,219.246
+PROD5907,Whose,Home & Kitchen,201.71,ORD20907,CUST1907,367.47,Kristen,david33@hotmail.com,Mozambique,8/31/2024,2024,73.494
+PROD5908,Guess,Clothing,64.3,ORD20908,CUST1908,910.79,Catherine,bdelgado@medina.com,Montserrat,7/31/2024,2024,182.158
+PROD5909,Gun,Beauty,34.49,ORD20909,CUST1909,356.78,Craig,cindygreen@gmail.com,Nicaragua,11/30/2023,2023,71.356
+PROD5910,Score,Toys,420.54,ORD20910,CUST1910,195.55,Felicia,yvonne27@stone.net,Malaysia,6/30/2024,2024,39.11
+PROD5911,Trade,Home & Kitchen,46.35,ORD20911,CUST1911,756.71,Rachel,noblewalter@yahoo.com,Yemen,1/31/2025,2025,151.342
+PROD5912,Final,Toys,302.88,ORD20912,CUST1912,1496.8,Charles,heidi00@yahoo.com,Somalia,7/31/2023,2023,299.36
+PROD5913,Any,Electronics,434.31,ORD20913,CUST1913,1469.66,Austin,andrewharris@hotmail.com,Guatemala,10/31/2023,2023,293.932
+PROD5914,Carry,Electronics,356.34,ORD20914,CUST1914,650.69,Todd,jcarr@yahoo.com,Brunei Darussalam,12/31/2023,2023,130.138
+PROD5915,Reflect,Clothing,30.55,ORD20915,CUST1915,1006.44,Katherine,dgates@yahoo.com,Guinea-Bissau,12/31/2023,2023,201.288
+PROD5916,Score,Books,394.71,ORD20916,CUST1916,281.99,John,harrischristina@hawkins-rodriguez.com,Nepal,6/30/2023,2023,56.398
+PROD5917,Run,Books,221.24,ORD20917,CUST1917,1048.55,Tiffany,blankenshipshannon@gmail.com,Afghanistan,2/29/2024,2024,209.71
+PROD5918,Save,Books,15.59,ORD20918,CUST1918,302.12,Thomas,ostokes@gmail.com,San Marino,7/31/2023,2023,60.424
+PROD5919,Score,Home & Kitchen,192.22,ORD20919,CUST1919,970.93,Charles,michaelwelch@gmail.com,Netherlands,10/31/2024,2024,194.186
+PROD5920,Course,Books,261.81,ORD20920,CUST1920,814.49,Michael,katrinabarron@rios-collins.com,Tajikistan,4/30/2024,2024,162.898
+PROD5921,Worker,Toys,207.5,ORD20921,CUST1921,903.76,Jonathan,randylittle@moore.com,Brunei Darussalam,6/30/2024,2024,180.752
+PROD5922,Trouble,Home & Kitchen,24.38,ORD20922,CUST1922,428.4,Marc,ashley00@moore.com,Norway,3/31/2023,2023,85.68
+PROD5923,Wind,Toys,477.36,ORD20923,CUST1923,1290.78,Austin,ana87@gmail.com,Sri Lanka,11/30/2024,2024,258.156
+PROD5924,Get,Books,219.93,ORD20924,CUST1924,340.68,Derrick,tamara64@smith.com,Botswana,12/31/2024,2024,68.136
+PROD5925,Oil,Electronics,74.96,ORD20925,CUST1925,1388.79,Jacob,destinystark@hotmail.com,Indonesia,12/31/2024,2024,277.758
+PROD5926,This,Electronics,334.86,ORD20926,CUST1926,1285.87,Chad,arthurjackson@hotmail.com,Kyrgyz Republic,11/30/2024,2024,257.174
+PROD5927,Act,Electronics,357.14,ORD20927,CUST1927,1305.92,Monica,fcarter@yahoo.com,Andorra,6/30/2024,2024,261.184
+PROD5928,Respond,Toys,315.14,ORD20928,CUST1928,422.97,Jared,shall@yahoo.com,Israel,5/31/2024,2024,84.594
+PROD5929,Me,Beauty,121.63,ORD20929,CUST1929,655.87,Elizabeth,ecantu@gmail.com,Mauritania,6/30/2023,2023,131.174
+PROD5930,Book,Clothing,142.49,ORD20930,CUST1930,732.13,Dennis,tcobb@hotmail.com,South Georgia and the South Sandwich Islands,12/31/2023,2023,146.426
+PROD5931,Act,Clothing,125.67,ORD20931,CUST1931,323.49,Christine,michellecrane@jenkins-chen.com,Belarus,10/31/2024,2024,64.698
+PROD5932,Suddenly,Clothing,274.93,ORD20932,CUST1932,186.04,Andre,williamsstephen@gmail.com,Palau,12/31/2024,2024,37.208
+PROD5933,Course,Clothing,323.01,ORD20933,CUST1933,1030.42,Daniel,qbean@hotmail.com,Wallis and Futuna,7/31/2023,2023,206.084
+PROD5934,Now,Books,76.88,ORD20934,CUST1934,829.69,Ryan,jose29@anderson.info,Kiribati,11/30/2024,2024,165.938
+PROD5935,Certain,Electronics,75.52,ORD20935,CUST1935,1445.84,Tiffany,dgreene@yahoo.com,Cape Verde,7/31/2023,2023,289.168
+PROD5936,Less,Clothing,204.54,ORD20936,CUST1936,633.32,Mary,andrea80@lang.com,Puerto Rico,11/30/2024,2024,126.664
+PROD5937,Act,Clothing,361.88,ORD20937,CUST1937,1162.25,Tanya,blevinsallison@wilkins.biz,Botswana,12/31/2023,2023,232.45
+PROD5938,Hand,Beauty,94.57,ORD20938,CUST1938,34.91,Nancy,smithjuan@gmail.com,Nigeria,1/31/2024,2024,6.982
+PROD5939,Thought,Beauty,457.04,ORD20939,CUST1939,1456.77,Amanda,millssarah@yahoo.com,Switzerland,12/31/2024,2024,291.354
+PROD5940,Example,Beauty,230.33,ORD20940,CUST1940,1455,Joshua,foxloretta@johnson.biz,Heard Island and McDonald Islands,2/29/2024,2024,291
+PROD5941,Rock,Clothing,80.07,ORD20941,CUST1941,1042.42,Christina,campbellanthony@hotmail.com,Sierra Leone,8/31/2023,2023,208.484
+PROD5942,Beautiful,Home & Kitchen,125.74,ORD20942,CUST1942,1004.95,Jeremy,paula09@hotmail.com,Nicaragua,4/30/2023,2023,200.99
+PROD5943,Research,Home & Kitchen,16.49,ORD20943,CUST1943,1367.32,Paul,davisjason@terry.com,Palestinian Territory,7/31/2024,2024,273.464
+PROD5944,Prepare,Clothing,18.98,ORD20944,CUST1944,990.41,Carlos,donna71@gmail.com,Palestinian Territory,9/30/2024,2024,198.082
+PROD5945,Ever,Clothing,306.6,ORD20945,CUST1945,1404.28,Jeffrey,zwells@perry-collins.net,Georgia,3/31/2023,2023,280.856
+PROD5946,From,Electronics,252.82,ORD20946,CUST1946,1014.81,Robin,crobinson@gmail.com,Montenegro,2/29/2024,2024,202.962
+PROD5947,Owner,Toys,73.6,ORD20947,CUST1947,645.45,Shelby,allenemily@gmail.com,Tunisia,8/31/2024,2024,129.09
+PROD5948,Reason,Toys,87.44,ORD20948,CUST1948,318.73,Kristen,garygonzalez@morris.com,Belgium,7/31/2024,2024,63.746
+PROD5949,Newspaper,Home & Kitchen,120.61,ORD20949,CUST1949,315.21,Michael,ihancock@hotmail.com,Ukraine,10/31/2024,2024,63.042
+PROD5950,Four,Electronics,350.12,ORD20950,CUST1950,1041.44,Joseph,qparks@yahoo.com,Malawi,1/31/2024,2024,208.288
+PROD5951,Source,Toys,55.76,ORD20951,CUST1951,359.86,Kaitlyn,lcannon@gmail.com,Nigeria,2/28/2023,2023,71.972
+PROD5952,Across,Home & Kitchen,448.91,ORD20952,CUST1952,1252.27,Erica,ggilbert@perry-frederick.com,Mali,11/30/2024,2024,250.454
+PROD5953,Off,Beauty,305.33,ORD20953,CUST1953,341.38,Joseph,madisonsharp@davidson.org,Sierra Leone,9/30/2024,2024,68.276
+PROD5954,Thing,Electronics,408.51,ORD20954,CUST1954,225.77,John,hendersonscott@shaw.com,Colombia,1/31/2024,2024,45.154
+PROD5955,Our,Beauty,223.67,ORD20955,CUST1955,673.46,Sonia,moorealexandra@hernandez-nelson.biz,Nicaragua,8/31/2023,2023,134.692
+PROD5956,Effect,Books,460.17,ORD20956,CUST1956,1133.24,Daniel,coreydixon@hotmail.com,Marshall Islands,4/30/2024,2024,226.648
+PROD5957,Daughter,Beauty,370.46,ORD20957,CUST1957,719.16,Hannah,kyledavis@salas.com,Libyan Arab Jamahiriya,7/31/2023,2023,143.832
+PROD5958,Energy,Beauty,47.25,ORD20958,CUST1958,1491.63,Kayla,brianreeves@yahoo.com,Iceland,8/31/2023,2023,298.326
+PROD5959,Until,Clothing,65.51,ORD20959,CUST1959,100.39,Michael,jose21@sullivan.info,Wallis and Futuna,2/28/2025,2025,20.078
+PROD5960,Build,Home & Kitchen,35.66,ORD20960,CUST1960,1030.48,Jennifer,martha71@taylor-mendez.com,Senegal,11/30/2024,2024,206.096
+PROD5961,East,Toys,110.95,ORD20961,CUST1961,322.36,Paul,zharper@hotmail.com,Guinea,10/31/2023,2023,64.472
+PROD5962,Special,Clothing,397.95,ORD20962,CUST1962,1476.39,Timothy,mary69@yahoo.com,Paraguay,12/31/2024,2024,295.278
+PROD5963,Yard,Home & Kitchen,44.74,ORD20963,CUST1963,975.37,Tyler,oliverkelly@baldwin.net,Saint Barthelemy,12/31/2023,2023,195.074
+PROD5964,Model,Toys,372.98,ORD20964,CUST1964,1150.91,Jasmine,sophiadaniels@martinez-gay.com,Timor-Leste,8/31/2023,2023,230.182
+PROD5965,Anyone,Home & Kitchen,90.14,ORD20965,CUST1965,1362.12,Thomas,yshelton@tanner.com,Puerto Rico,2/29/2024,2024,272.424
+PROD5966,These,Books,435.12,ORD20966,CUST1966,1186.61,Jennifer,campbellamanda@delgado.org,Isle of Man,8/31/2024,2024,237.322
+PROD5967,Thus,Electronics,415.86,ORD20967,CUST1967,1445.77,Gina,rking@gmail.com,Tonga,11/30/2024,2024,289.154
+PROD5968,City,Home & Kitchen,360.99,ORD20968,CUST1968,1069.62,Olivia,edwardsregina@yahoo.com,Gambia,1/31/2024,2024,213.924
+PROD5969,Say,Toys,495.16,ORD20969,CUST1969,252.47,Zachary,robertjenkins@gmail.com,Bulgaria,2/29/2024,2024,50.494
+PROD5970,Right,Toys,190.51,ORD20970,CUST1970,864.26,Amanda,miguelgonzalez@gmail.com,Sri Lanka,1/31/2025,2025,172.852
+PROD5971,Hold,Clothing,490.78,ORD20971,CUST1971,761.84,Laura,daniel03@gmail.com,Andorra,11/30/2023,2023,152.368
+PROD5972,Rest,Clothing,143.05,ORD20972,CUST1972,98.98,Catherine,amy01@yahoo.com,Andorra,10/31/2024,2024,19.796
+PROD5973,Town,Electronics,29.93,ORD20973,CUST1973,152.66,Karen,susan20@matthews.org,Malawi,11/30/2024,2024,30.532
+PROD5974,Appear,Home & Kitchen,196.52,ORD20974,CUST1974,1379.84,Craig,utaylor@morgan-reid.com,Norway,10/31/2024,2024,275.968
+PROD5975,Role,Books,473.94,ORD20975,CUST1975,131.97,Jackie,vthompson@gmail.com,Canada,1/31/2025,2025,26.394
+PROD5976,Cultural,Beauty,238.53,ORD20976,CUST1976,1091.42,Deanna,ylambert@yahoo.com,Belize,10/31/2023,2023,218.284
+PROD5977,Matter,Books,388.35,ORD20977,CUST1977,1033.94,Kyle,yolson@sims.com,Malta,9/30/2024,2024,206.788
+PROD5978,Term,Home & Kitchen,49.46,ORD20978,CUST1978,683.3,Lisa,jamesgutierrez@thomas-collins.net,Turkey,6/30/2024,2024,136.66
+PROD5979,Many,Toys,487.67,ORD20979,CUST1979,294.63,Lisa,graytravis@gmail.com,Kenya,3/31/2024,2024,58.926
+PROD5980,Radio,Home & Kitchen,97.39,ORD20980,CUST1980,1395.06,Kimberly,omarhoward@yahoo.com,Switzerland,11/30/2023,2023,279.012
+PROD5981,Take,Toys,82.68,ORD20981,CUST1981,41.4,Zachary,mary24@hotmail.com,Tonga,11/30/2024,2024,8.28
+PROD5982,Factor,Home & Kitchen,123.19,ORD20982,CUST1982,1118.76,Andrew,rwoods@yahoo.com,Uzbekistan,4/30/2023,2023,223.752
+PROD5983,Now,Beauty,448.35,ORD20983,CUST1983,444.38,Susan,cathy51@hotmail.com,Hong Kong,4/30/2024,2024,88.876
+PROD5984,Model,Beauty,420.8,ORD20984,CUST1984,816.23,Isaac,johnsonheather@cochran.com,Jamaica,6/30/2024,2024,163.246
+PROD5985,Attention,Beauty,376.49,ORD20985,CUST1985,1059.43,David,amanda49@yahoo.com,Kiribati,6/30/2023,2023,211.886
+PROD5986,TRUE,Clothing,174.94,ORD20986,CUST1986,1294.84,James,annaphillips@martinez-bradshaw.org,Mexico,9/30/2023,2023,258.968
+PROD5987,Body,Books,217.34,ORD20987,CUST1987,699.67,Michael,brandonmorrison@gmail.com,Mali,4/30/2023,2023,139.934
+PROD5988,Keep,Electronics,118.63,ORD20988,CUST1988,443.31,Andrew,palmersamuel@yahoo.com,Finland,5/31/2024,2024,88.662
+PROD5989,As,Beauty,434.35,ORD20989,CUST1989,1128.54,Jennifer,williammontes@gmail.com,United Kingdom,12/31/2024,2024,225.708
+PROD5990,Particular,Electronics,96.72,ORD20990,CUST1990,860.67,Cheryl,ashleycollins@shaw.com,Sweden,4/30/2023,2023,172.134
+PROD5991,Usually,Beauty,376.04,ORD20991,CUST1991,266.97,Michelle,morganphillip@yahoo.com,Switzerland,6/30/2024,2024,53.394
+PROD5992,Happen,Electronics,390.61,ORD20992,CUST1992,1159.14,Michelle,stephen14@hotmail.com,Liberia,7/31/2023,2023,231.828
+PROD5993,Although,Clothing,385.99,ORD20993,CUST1993,480.89,Anna,justin95@garrett.biz,Slovenia,5/31/2023,2023,96.178
+PROD5994,Think,Toys,217.66,ORD20994,CUST1994,53.25,Joseph,bgraham@gmail.com,Nigeria,2/29/2024,2024,10.65
+PROD5995,Seven,Books,389.97,ORD20995,CUST1995,75.87,Kathleen,rhodge@salinas.com,Sri Lanka,12/31/2023,2023,15.174
+PROD5996,Up,Toys,203.08,ORD20996,CUST1996,242.42,Brian,jennifer86@price.info,Tonga,1/31/2025,2025,48.484
+PROD5997,Subject,Home & Kitchen,6.84,ORD20997,CUST1997,1198.03,Lisa,clintonhernandez@gmail.com,Nigeria,10/31/2024,2024,239.606
+PROD5998,Big,Books,407.22,ORD20998,CUST1998,135.48,Roberta,tamaraballard@davis-charles.info,Finland,11/30/2024,2024,27.096
+PROD5999,Produce,Books,435.28,ORD20999,CUST1999,906.71,Jennifer,codygray@brown-wall.info,Iran,11/30/2024,2024,181.342
