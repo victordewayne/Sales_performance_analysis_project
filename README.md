@@ -59,6 +59,3 @@ Insights & Outcomes:
 
 ---
 
-This project showcases a solid understanding of the end-to-end data pipeline, from data cleaning and storage to analysis and visualization. It reflects skills necessary for roles such as Data Analyst, Business Intelligence Analyst, and Power BI Developer.
-
----
