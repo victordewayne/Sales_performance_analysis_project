@@ -10,7 +10,7 @@ The objective of this project is to perform a comprehensive "Sales Performance A
 
 Steps Followed:
 
-1. Data Cleaning & Transformation in Excel**:  
+1. Data Cleaning & Transformation in Excel:  
    - Used Excel to clean and transform raw data (e.g., handling missing values, duplicates, and inconsistent data).
    - Created pivot tables for initial analysis and insights.
   
